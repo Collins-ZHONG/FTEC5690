@@ -1,0 +1,217 @@
+﻿period,sheet,cell,field,label,issuer_value,clean_value,difference,tolerance,status
+2025-05,Ex_99.3,E18,sofr,One-Month SOFR as of the SOFR Determination Date:,0.0434471,0.0434471,0E-7,.0000001,pass
+2025-05,Ex_99.3,E19,a2b_rate,Class A-2B interest rate:,0.047147100000000004,0.0471471,4E-18,.0000001,pass
+2025-05,Ex_99.3,E21,total_distribution,Total Distribution Amount:,72008197.09,72008197.09,0.00,.011,pass
+2025-05,Ex_99.3,E48,note_principal,Noteholders' Principal Distribution Amount deposited into Note Distribution Account:,63298479.25,63298479.25,0.00,.011,pass
+2025-05,Ex_99.3,E90,servicing_fee_paid,Amount of Servicing Fee paid:,919250.2096879592,919250.21,-0.0003120408,.011,pass
+2025-05,Ex_99.3,E101,certificate_payment,Amount Paid to Certificateholder:,3442910.950312037,3442910.95,0.000312037,.011,pass
+2025-05,Ex_99.3,E103,pool_balance,Pool Balance (excluding Accrued Interest) as of close of business on the last day of the related Collection Period:,1038697741.625561,1038697741.63,-0.004439,.011,pass
+2025-05,Ex_99.3,E105,note_value,Note Value as of the end of the related Collection Period:,988439353.83,988439353.83,0.00,.011,pass
+2025-05,Ex_99.3,E109,account_count,Number of Accounts at the end of the related Collection Period:,15518,15518,0,0,pass
+2025-05,Ex_99.3,E151,net_loss,Aggregate amount of net losses for the collection period:,484242.9399920001,484242.94,-0.0000079999,.011,pass
+2025-05,Ex_99.3,E152,net_loss_cumulative,Cumulative amount of net losses:,4827508.964439,4827508.96,0.004439,.011,pass
+2025-05,Ex_99.3,E155,delinquency_60plus,Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:,0.023562257737942235,0.0236,-0.000037742262057765,.000051,pass
+2025-05,Ex_99.3,E160,remaining_term,Weighted average remaining term on receivables:,35.8861626934073,35.89,-0.0038373065927,.0051,pass
+2025-05,Ex_99.3,E161,prepayment,Prepayment amount - monthly:,26439628.25094367,26439628.25,0.00094367,.011,pass
+2025-05,Ex_99.3,E162,prepayment_cumulative,Prepayment amount - life-to-date:,185369330.21135682,185369330.21,0.00135682,.011,pass
+2025-05,Ex_99.3,E163,weighted_apr,Weighted average APR of the pool assets:,0.0475856852124207,0.0476,-0.0000143147875793,.000051,pass
+2025-05,Ex_99.1,E18,opening_balance,A-1,0,0.00,0.00,.011,pass
+2025-05,Ex_99.1,E35,principal_paid,A-1,0,0.00,0.00,.011,pass
+2025-05,Ex_99.1,E54,interest_paid,A-1,0,0.00,0.00,.011,pass
+2025-05,Ex_99.1,E85,closing_balance,A-1,0,0.00,0.00,.011,pass
+2025-05,Ex_99.1,E21,opening_balance,A-2A,206497660.95803672,206497660.96,-0.00196328,.011,pass
+2025-05,Ex_99.1,E38,principal_paid,A-2A,32750003.636102326,32750003.64,-0.003897674,.011,pass
+2025-05,Ex_99.1,E57,interest_paid,A-2A,932681.1,932681.10,0.00,.011,pass
+2025-05,Ex_99.1,E88,closing_balance,A-2A,173747657.3219344,173747657.32,0.0019344,.011,pass
+2025-05,Ex_99.1,E24,opening_balance,A-2B,192616429.30474645,192616429.30,0.00474645,.011,pass
+2025-05,Ex_99.1,E41,principal_paid,A-2B,30548475.61389767,30548475.61,0.00389767,.011,pass
+2025-05,Ex_99.1,E60,interest_paid,A-2B,756775.5,756775.50,0.00,.011,pass
+2025-05,Ex_99.1,E91,closing_balance,A-2B,162067953.69084877,162067953.69,0.00084877,.011,pass
+2025-05,Ex_99.1,E27,opening_balance,A-3,521850000,521850000.00,0.00,.011,pass
+2025-05,Ex_99.1,E44,principal_paid,A-3,3.725290298461914e-09,0.00,3.725290298461914E-9,.011,pass
+2025-05,Ex_99.1,E63,interest_paid,A-3,2261350,2261350.00,0.00,.011,pass
+2025-05,Ex_99.1,E94,closing_balance,A-3,521850000,521850000.00,0.00,.011,pass
+2025-05,Ex_99.1,E30,opening_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2025-05,Ex_99.1,E47,principal_paid,A-4,0,0.00,0.00,.011,pass
+2025-05,Ex_99.1,E66,interest_paid,A-4,396650.08,396650.08,0.00,.011,pass
+2025-05,Ex_99.1,E97,closing_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2025-06,Ex_99.3,E18,sofr,One-Month SOFR as of the SOFR Determination Date:,0.0433228,0.0433228,0E-7,.0000001,pass
+2025-06,Ex_99.3,E19,a2b_rate,Class A-2B interest rate:,0.047022800000000003,0.0470228,3E-18,.0000001,pass
+2025-06,Ex_99.3,E21,total_distribution,Total Distribution Amount:,34723108.91,34723108.91,0.00,.011,pass
+2025-06,Ex_99.3,E48,note_principal,Noteholders' Principal Distribution Amount deposited into Note Distribution Account:,27168737.97000003,27168737.97,3E-8,.011,pass
+2025-06,Ex_99.3,E90,servicing_fee_paid,Amount of Servicing Fee paid:,865581.4513546342,865581.45,0.0013546342,.011,pass
+2025-06,Ex_99.3,E101,certificate_payment,Amount Paid to Certificateholder:,2568516.808645334,2568516.81,-0.001354666,.011,pass
+2025-06,Ex_99.3,E103,pool_balance,Pool Balance (excluding Accrued Interest) as of close of business on the last day of the related Collection Period:,1006957811.6225598,1006957811.62,0.0025598,.011,pass
+2025-06,Ex_99.3,E105,note_value,Note Value as of the end of the related Collection Period:,961270615.86,961270615.86,0.00,.011,pass
+2025-06,Ex_99.3,E109,account_count,Number of Accounts at the end of the related Collection Period:,15239,15239,0,0,pass
+2025-06,Ex_99.3,E151,net_loss,Aggregate amount of net losses for the collection period:,446508.5730009999,446508.57,0.0030009999,.011,pass
+2025-06,Ex_99.3,E152,net_loss_cumulative,Cumulative amount of net losses:,5274017.53744,5274017.54,-0.00256,.011,pass
+2025-06,Ex_99.3,E155,delinquency_60plus,Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:,0.023577643964789213,0.0236,-0.000022356035210787,.000051,pass
+2025-06,Ex_99.3,E160,remaining_term,Weighted average remaining term on receivables:,34.9295607048595,34.93,-0.0004392951405,.0051,pass
+2025-06,Ex_99.3,E161,prepayment,Prepayment amount - monthly:,7541552.684825547,7541552.68,0.004825547,.011,pass
+2025-06,Ex_99.3,E162,prepayment_cumulative,Prepayment amount - life-to-date:,192910882.89618236,192910882.90,-0.00381764,.011,pass
+2025-06,Ex_99.3,E163,weighted_apr,Weighted average APR of the pool assets:,0.047617966849665,0.0476,0.000017966849665,.000051,pass
+2025-06,Ex_99.1,E18,opening_balance,A-1,0,0.00,0.00,.011,pass
+2025-06,Ex_99.1,E35,principal_paid,A-1,0,0.00,0.00,.011,pass
+2025-06,Ex_99.1,E54,interest_paid,A-1,0,0.00,0.00,.011,pass
+2025-06,Ex_99.1,E85,closing_balance,A-1,0,0.00,0.00,.011,pass
+2025-06,Ex_99.1,E21,opening_balance,A-2A,173747657.3219344,173747657.32,0.0019344,.011,pass
+2025-06,Ex_99.1,E38,principal_paid,A-2A,14056834.822075322,14056834.82,0.002075322,.011,pass
+2025-06,Ex_99.1,E57,interest_paid,A-2A,784760.25,784760.25,0.00,.011,pass
+2025-06,Ex_99.1,E88,closing_balance,A-2A,159690822.4998591,159690822.50,-0.0001409,.011,pass
+2025-06,Ex_99.1,E24,opening_balance,A-2B,162067953.69084877,162067953.69,0.00084877,.011,pass
+2025-06,Ex_99.1,E41,principal_paid,A-2B,13111903.147924704,13111903.15,-0.002075296,.011,pass
+2025-06,Ex_99.1,E60,interest_paid,A-2B,677412.35,677412.35,0.00,.011,pass
+2025-06,Ex_99.1,E91,closing_balance,A-2B,148956050.54292408,148956050.54,0.00292408,.011,pass
+2025-06,Ex_99.1,E27,opening_balance,A-3,521850000,521850000.00,0.00,.011,pass
+2025-06,Ex_99.1,E44,principal_paid,A-3,1.862645149230957e-09,0.00,1.862645149230957E-9,.011,pass
+2025-06,Ex_99.1,E63,interest_paid,A-3,2261350,2261350.00,0.00,.011,pass
+2025-06,Ex_99.1,E94,closing_balance,A-3,521850000,521850000.00,0.00,.011,pass
+2025-06,Ex_99.1,E30,opening_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2025-06,Ex_99.1,E47,principal_paid,A-4,0,0.00,0.00,.011,pass
+2025-06,Ex_99.1,E66,interest_paid,A-4,396650.08,396650.08,0.00,.011,pass
+2025-06,Ex_99.1,E97,closing_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2025-09,Ex_99.3,E18,sofr,One-Month SOFR as of the SOFR Determination Date:,0.043427,0.043427,0.000000,.0000001,pass
+2025-09,Ex_99.3,E19,a2b_rate,Class A-2B interest rate:,0.047127,0.047127,0.000000,.0000001,pass
+2025-09,Ex_99.3,E21,total_distribution,Total Distribution Amount:,37586699.38,37586699.38,0.00,.011,pass
+2025-09,Ex_99.3,E48,note_principal,Noteholders' Principal Distribution Amount deposited into Note Distribution Account:,30594896.299999952,30594896.30,-4.8E-8,.011,pass
+2025-09,Ex_99.3,E90,servicing_fee_paid,Amount of Servicing Fee paid:,783985.7261659184,783985.73,-0.0038340816,.011,pass
+2025-09,Ex_99.3,E101,certificate_payment,Amount Paid to Certificateholder:,2472971.993834134,2472971.99,0.003834134,.011,pass
+2025-09,Ex_99.3,E103,pool_balance,Pool Balance (excluding Accrued Interest) as of close of business on the last day of the related Collection Period:,906814441.206377,906814441.21,-0.003623,.011,pass
+2025-09,Ex_99.3,E105,note_value,Note Value as of the end of the related Collection Period:,872703707.23,872703707.23,0.00,.011,pass
+2025-09,Ex_99.3,E109,account_count,Number of Accounts at the end of the related Collection Period:,14395,14395,0,0,pass
+2025-09,Ex_99.3,E151,net_loss,Aggregate amount of net losses for the collection period:,264402.89272399957,264402.89,0.00272399957,.011,pass
+2025-09,Ex_99.3,E152,net_loss_cumulative,Cumulative amount of net losses:,6716749.713622,6716749.71,0.003622,.011,pass
+2025-09,Ex_99.3,E155,delinquency_60plus,Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:,0.02470979361575966,0.0247,0.00000979361575966,.000051,pass
+2025-09,Ex_99.3,E160,remaining_term,Weighted average remaining term on receivables:,32.4719399890482,32.47,0.0019399890482,.0051,pass
+2025-09,Ex_99.3,E161,prepayment,Prepayment amount - monthly:,376105.4684843384,376105.47,-0.0015156616,.011,pass
+2025-09,Ex_99.3,E162,prepayment_cumulative,Prepayment amount - life-to-date:,202380593.25561255,202380593.26,-0.00438745,.011,pass
+2025-09,Ex_99.3,E163,weighted_apr,Weighted average APR of the pool assets:,0.0479236570685961,0.0479,0.0000236570685961,.000051,pass
+2025-09,Ex_99.1,E18,opening_balance,A-1,0,0.00,0.00,.011,pass
+2025-09,Ex_99.1,E35,principal_paid,A-1,0,0.00,0.00,.011,pass
+2025-09,Ex_99.1,E54,interest_paid,A-1,0,0.00,0.00,.011,pass
+2025-09,Ex_99.1,E85,closing_balance,A-1,0,0.00,0.00,.011,pass
+2025-09,Ex_99.1,E21,opening_balance,A-2A,129696679.874392,129696679.87,0.004392,.011,pass
+2025-09,Ex_99.1,E38,principal_paid,A-2A,15829495.06754812,15829495.07,-0.00245188,.011,pass
+2025-09,Ex_99.1,E57,interest_paid,A-2A,585796.67,585796.67,0.00,.011,pass
+2025-09,Ex_99.1,E88,closing_balance,A-2A,113867184.80684388,113867184.81,-0.00315612,.011,pass
+2025-09,Ex_99.1,E24,opening_balance,A-2B,120978180.83839114,120978180.84,-0.00160886,.011,pass
+2025-09,Ex_99.1,E41,principal_paid,A-2B,14765401.23245183,14765401.23,0.00245183,.011,pass
+2025-09,Ex_99.1,E60,interest_paid,A-2B,490948.61,490948.61,0.00,.011,pass
+2025-09,Ex_99.1,E91,closing_balance,A-2B,106212779.60593931,106212779.61,-0.00406069,.011,pass
+2025-09,Ex_99.1,E27,opening_balance,A-3,521850000,521850000.00,0.00,.011,pass
+2025-09,Ex_99.1,E44,principal_paid,A-3,1.862645149230957e-09,0.00,1.862645149230957E-9,.011,pass
+2025-09,Ex_99.1,E63,interest_paid,A-3,2261350,2261350.00,0.00,.011,pass
+2025-09,Ex_99.1,E94,closing_balance,A-3,521850000,521850000.00,0.00,.011,pass
+2025-09,Ex_99.1,E30,opening_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2025-09,Ex_99.1,E47,principal_paid,A-4,0,0.00,0.00,.011,pass
+2025-09,Ex_99.1,E66,interest_paid,A-4,396650.08,396650.08,0.00,.011,pass
+2025-09,Ex_99.1,E97,closing_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2026-04,Ex_99.3,E18,sofr,One-Month SOFR as of the SOFR Determination Date:,0.0367223,0.0367223,0E-7,.0000001,pass
+2026-04,Ex_99.3,E19,a2b_rate,Class A-2B interest rate:,0.0404223,0.0404223,0E-7,.0000001,pass
+2026-04,Ex_99.3,E21,total_distribution,Total Distribution Amount:,43098590.39000001,43098590.39,1E-8,.011,pass
+2026-04,Ex_99.3,E48,note_principal,Noteholders' Principal Distribution Amount deposited into Note Distribution Account:,38226691.01999998,38226691.02,-2E-8,.011,pass
+2026-04,Ex_99.3,E90,servicing_fee_paid,Amount of Servicing Fee paid:,560476.5063736492,560476.51,-0.0036263508,.011,pass
+2026-04,Ex_99.3,E101,certificate_payment,Amount Paid to Certificateholder:,1661622.5136263764,1661622.51,0.0036263764,.011,pass
+2026-04,Ex_99.3,E103,pool_balance,Pool Balance (excluding Accrued Interest) as of close of business on the last day of the related Collection Period:,633129575.3428091,633129575.34,0.0028091,.011,pass
+2026-04,Ex_99.3,E105,note_value,Note Value as of the end of the related Collection Period:,612481729.89,612481729.89,0.00,.011,pass
+2026-04,Ex_99.3,E109,account_count,Number of Accounts at the end of the related Collection Period:,12162,12162,0,0,pass
+2026-04,Ex_99.3,E151,net_loss,Aggregate amount of net losses for the collection period:,456049.67556999996,456049.68,-0.00443000004,.011,pass
+2026-04,Ex_99.3,E152,net_loss_cumulative,Cumulative amount of net losses:,9536129.037191998,9536129.04,-0.002808002,.011,pass
+2026-04,Ex_99.3,E155,delinquency_60plus,Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:,0.030371787843883735,0.0304,-0.000028212156116265,.000051,pass
+2026-04,Ex_99.3,E160,remaining_term,Weighted average remaining term on receivables:,26.8677996811375,26.87,-0.0022003188625,.0051,pass
+2026-04,Ex_99.3,E161,prepayment,Prepayment amount - monthly:,-1278305.4132596403,-1278305.41,-0.0032596403,.011,pass
+2026-04,Ex_99.3,E162,prepayment_cumulative,Prepayment amount - life-to-date:,221536176.28281337,221536176.28,0.00281337,.011,pass
+2026-04,Ex_99.3,E163,weighted_apr,Weighted average APR of the pool assets:,0.0487106613958394,0.0487,0.0000106613958394,.000051,pass
+2026-04,Ex_99.1,E18,opening_balance,A-1,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E35,principal_paid,A-1,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E54,interest_paid,A-1,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E85,closing_balance,A-1,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E21,opening_balance,A-2A,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E38,principal_paid,A-2A,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E57,interest_paid,A-2A,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E88,closing_balance,A-2A,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E24,opening_balance,A-2B,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E41,principal_paid,A-2B,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E60,interest_paid,A-2B,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E91,closing_balance,A-2B,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E27,opening_balance,A-3,519934678.09278315,519934678.09,0.00278315,.011,pass
+2026-04,Ex_99.1,E44,principal_paid,A-3,38226691.01999998,38226691.02,-2E-8,.011,pass
+2026-04,Ex_99.1,E63,interest_paid,A-3,2253050.27,2253050.27,0.00,.011,pass
+2026-04,Ex_99.1,E94,closing_balance,A-3,481707987.0727832,481707987.07,0.0027832,.011,pass
+2026-04,Ex_99.1,E30,opening_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2026-04,Ex_99.1,E47,principal_paid,A-4,0,0.00,0.00,.011,pass
+2026-04,Ex_99.1,E66,interest_paid,A-4,396650.08,396650.08,0.00,.011,pass
+2026-04,Ex_99.1,E97,closing_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2026-06,Ex_99.3,E18,sofr,One-Month SOFR as of the SOFR Determination Date:,0.0364285,0.0364285,0E-7,.0000001,pass
+2026-06,Ex_99.3,E19,a2b_rate,Class A-2B interest rate:,0.040128500000000004,0.0401285,4E-18,.0000001,pass
+2026-06,Ex_99.3,E21,total_distribution,Total Distribution Amount:,23085397.009999998,23085397.01,-2E-9,.011,pass
+2026-06,Ex_99.3,E48,note_principal,Noteholders' Principal Distribution Amount deposited into Note Distribution Account:,19540865.899999976,19540865.90,-2.4E-8,.011,pass
+2026-06,Ex_99.3,E90,servicing_fee_paid,Amount of Servicing Fee paid:,492628.4739450425,492628.47,0.0039450425,.011,pass
+2026-06,Ex_99.3,E101,certificate_payment,Amount Paid to Certificateholder:,745734.2860549777,745734.29,-0.0039450223,.011,pass
+2026-06,Ex_99.3,E103,pool_balance,Pool Balance (excluding Accrued Interest) as of close of business on the last day of the related Collection Period:,568838605.673255,568838605.67,0.003255,.011,pass
+2026-06,Ex_99.3,E105,note_value,Note Value as of the end of the related Collection Period:,551867862.53,551867862.53,0.00,.011,pass
+2026-06,Ex_99.3,E109,account_count,Number of Accounts at the end of the related Collection Period:,11436,11436,0,0,pass
+2026-06,Ex_99.3,E151,net_loss,Aggregate amount of net losses for the collection period:,1097374.8007960003,1097374.80,0.0007960003,.011,pass
+2026-06,Ex_99.3,E152,net_loss_cumulative,Cumulative amount of net losses:,11062108.626745997,11062108.63,-0.003254003,.011,pass
+2026-06,Ex_99.3,E155,delinquency_60plus,Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:,0.034530706748976764,0.0345,0.000030706748976764,.000051,pass
+2026-06,Ex_99.3,E160,remaining_term,Weighted average remaining term on receivables:,25.1497725712709,25.15,-0.0002274287291,.0051,pass
+2026-06,Ex_99.3,E161,prepayment,Prepayment amount - monthly:,1003365.9877568223,1003365.99,-0.0022431777,.011,pass
+2026-06,Ex_99.3,E162,prepayment_cumulative,Prepayment amount - life-to-date:,228641121.31861523,228641121.32,-0.00138477,.011,pass
+2026-06,Ex_99.3,E163,weighted_apr,Weighted average APR of the pool assets:,0.0489403831765168,0.0489,0.0000403831765168,.000051,pass
+2026-06,Ex_99.1,E18,opening_balance,A-1,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E35,principal_paid,A-1,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E54,interest_paid,A-1,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E85,closing_balance,A-1,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E21,opening_balance,A-2A,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E38,principal_paid,A-2A,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E57,interest_paid,A-2A,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E88,closing_balance,A-2A,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E24,opening_balance,A-2B,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E41,principal_paid,A-2B,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E60,interest_paid,A-2B,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E91,closing_balance,A-2B,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E27,opening_balance,A-3,440634985.61278313,440634985.61,0.00278313,.011,pass
+2026-06,Ex_99.1,E44,principal_paid,A-3,19540865.899999976,19540865.90,-2.4E-8,.011,pass
+2026-06,Ex_99.1,E63,interest_paid,A-3,1909418.27,1909418.27,0.00,.011,pass
+2026-06,Ex_99.1,E94,closing_balance,A-3,421094119.71278316,421094119.71,0.00278316,.011,pass
+2026-06,Ex_99.1,E30,opening_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2026-06,Ex_99.1,E47,principal_paid,A-4,0,0.00,0.00,.011,pass
+2026-06,Ex_99.1,E66,interest_paid,A-4,396650.08,396650.08,0.00,.011,pass
+2026-06,Ex_99.1,E97,closing_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2026-08,Ex_99.3,E18,sofr,One-Month SOFR as of the SOFR Determination Date:,0.0362539,0.0362539,0E-7,.0000001,pass
+2026-08,Ex_99.3,E19,a2b_rate,Class A-2B interest rate:,0.0399539,0.0399539,0E-7,.0000001,pass
+2026-08,Ex_99.3,E21,total_distribution,Total Distribution Amount:,32352041.140000004,32352041.14,4E-9,.011,pass
+2026-08,Ex_99.3,E48,note_principal,Noteholders' Principal Distribution Amount deposited into Note Distribution Account:,28878875.090000033,28878875.09,3.3E-8,.011,pass
+2026-08,Ex_99.3,E90,servicing_fee_paid,Amount of Servicing Fee paid:,456208.18907449744,456208.19,-0.00092550256,.011,pass
+2026-08,Ex_99.3,E101,certificate_payment,Amount Paid to Certificateholder:,876897.0009254741,876897.00,0.0009254741,.011,pass
+2026-08,Ex_99.3,E103,pool_balance,Pool Balance (excluding Accrued Interest) as of close of business on the last day of the related Collection Period:,516929176.910993,516929176.91,0.000993,.011,pass
+2026-08,Ex_99.3,E105,note_value,Note Value as of the end of the related Collection Period:,504197354.64,504197354.64,0.00,.011,pass
+2026-08,Ex_99.3,E109,account_count,Number of Accounts at the end of the related Collection Period:,10773,10773,0,0,pass
+2026-08,Ex_99.3,E151,net_loss,Aggregate amount of net losses for the collection period:,816456.758404,816456.76,-0.001596,.011,pass
+2026-08,Ex_99.3,E152,net_loss_cumulative,Cumulative amount of net losses:,11964722.269008,11964722.27,-0.000992,.011,pass
+2026-08,Ex_99.3,E155,delinquency_60plus,Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:,0.032653670993901755,0.0327,-0.000046329006098245,.000051,pass
+2026-08,Ex_99.3,E160,remaining_term,Weighted average remaining term on receivables:,23.9113933794716,23.91,0.0013933794716,.0051,pass
+2026-08,Ex_99.3,E161,prepayment,Prepayment amount - monthly:,4279617.399743982,4279617.40,-0.000256018,.011,pass
+2026-08,Ex_99.3,E162,prepayment_cumulative,Prepayment amount - life-to-date:,229052386.95426327,229052386.95,0.00426327,.011,pass
+2026-08,Ex_99.3,E163,weighted_apr,Weighted average APR of the pool assets:,0.0491752536176042,0.0492,-0.0000247463823958,.000051,pass
+2026-08,Ex_99.1,E18,opening_balance,A-1,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E35,principal_paid,A-1,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E54,interest_paid,A-1,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E85,closing_balance,A-1,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E21,opening_balance,A-2A,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E38,principal_paid,A-2A,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E57,interest_paid,A-2A,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E88,closing_balance,A-2A,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E24,opening_balance,A-2B,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E41,principal_paid,A-2B,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E60,interest_paid,A-2B,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E91,closing_balance,A-2B,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E27,opening_balance,A-3,402302486.9127832,402302486.91,0.0027832,.011,pass
+2026-08,Ex_99.1,E44,principal_paid,A-3,28878875.090000033,28878875.09,3.3E-8,.011,pass
+2026-08,Ex_99.1,E63,interest_paid,A-3,1743310.78,1743310.78,0.00,.011,pass
+2026-08,Ex_99.1,E94,closing_balance,A-3,373423611.8227832,373423611.82,0.0027832,.011,pass
+2026-08,Ex_99.1,E30,opening_balance,A-4,91711000,91711000.00,0.00,.011,pass
+2026-08,Ex_99.1,E47,principal_paid,A-4,0,0.00,0.00,.011,pass
+2026-08,Ex_99.1,E66,interest_paid,A-4,396650.08,396650.08,0.00,.011,pass
+2026-08,Ex_99.1,E97,closing_balance,A-4,91711000,91711000.00,0.00,.011,pass

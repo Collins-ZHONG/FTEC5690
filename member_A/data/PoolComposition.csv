@@ -1,0 +1,100 @@
+﻿dimension,bucket,receivables,balance_including_accrued_usd,reported_balance_share,prospectus_print_page
+apr_band,0.00% to 0.49%,3170,118945979.70,0.0702,55
+apr_band,0.50% to 0.99%,432,26795796.16,0.0158,55
+apr_band,1.00% to 1.49%,93,6425906.95,0.0038,55
+apr_band,1.50% to 1.99%,967,72564710.76,0.0428,55
+apr_band,2.00% to 2.49%,510,33410877.16,0.0197,55
+apr_band,2.50% to 2.99%,1326,112647964.38,0.0665,55
+apr_band,3.00% to 3.49%,593,44665496.12,0.0264,55
+apr_band,3.50% to 3.99%,1765,177601122.50,0.1048,55
+apr_band,4.00% to 4.49%,771,53133544.31,0.0314,55
+apr_band,4.50% to 4.99%,1488,192949957.79,0.1139,55
+apr_band,5.00% to 5.49%,595,65826539.46,0.0389,55
+apr_band,5.50% to 5.99%,1918,237244820.98,0.14,55
+apr_band,6.00% to 6.49%,1272,148679321.34,0.0878,55
+apr_band,6.50% to 6.99%,1628,205845533.44,0.1215,55
+apr_band,7.00% to 7.49%,752,111639584.65,0.0659,55
+apr_band,7.50% to 7.99%,1435,63302031.87,0.0374,55
+apr_band,8.00% to 8.49%,307,10235747.10,0.006,55
+apr_band,8.50% to 8.99%,44,3356624.76,0.002,55
+apr_band,9.00% to 9.49%,30,2384617.67,0.0014,55
+apr_band,9.50% to 9.99%,18,2236476.83,0.0013,55
+apr_band,10.00% to 10.49%,9,1251769.85,0.0007,55
+apr_band,10.50% to 10.99%,8,640574.74,0.0004,55
+apr_band,11.00% to 11.49%,0,0.00,0.00,55
+apr_band,11.50% to 11.99%,1,38729.58,0.00,55
+apr_band,12.00% and above,24,2177423.21,0.0013,55
+equipment_type,Agricultural New,8016,631064276.22,0.3725,56
+equipment_type,Agricultural Used,7468,641566307.94,0.3787,56
+equipment_type,Construction New,2652,320722199.26,0.1893,56
+equipment_type,Construction Used,1020,100648367.89,0.0594,56
+payment_frequency,Annual,10810,1056803151.45,0.6239,56
+payment_frequency,Semiannual,434,47830774.04,0.0282,56
+payment_frequency,Quarterly,141,9069983.54,0.0054,56
+payment_frequency,Monthly,7556,540545037.49,0.3191,56
+payment_frequency,Other,215,39752204.79,0.0235,56
+current_balance,"$500.00  –  $10,000.00",2232,12858265.89,0.0076,57
+current_balance,"$10,000.01  –  $20,000.00",2562,37758261.08,0.0223,57
+current_balance,"$20,000.01  –  $30,000.00",1985,49375130.83,0.0291,57
+current_balance,"$30,000.01  –  $40,000.00",1627,56526703.52,0.0334,57
+current_balance,"$40,000.01  –  $50,000.00",1362,61123579.46,0.0361,57
+current_balance,"$50,000.01  –  $100,000.00",4100,290346026.76,0.1714,57
+current_balance,"$100,000.01  –  $200,000.00",2952,412685685.74,0.2436,57
+current_balance,"$200,000.01  –  $300,000.00",1262,307827390.87,0.1817,57
+current_balance,"$300,000.01  –  $400,000.00",566,193406065.27,0.1142,57
+current_balance,"$400,000.01  –  $500,000.00",265,118141903.69,0.0697,57
+current_balance,"$500,000.01  –  $600,000.00",135,73137874.10,0.0432,57
+current_balance,"$600,000.01  –  $700,000.00",47,30695560.20,0.0181,57
+current_balance,"$700,000.01  –  $800,000.00",30,22310059.07,0.0132,57
+current_balance,"$800,000.01 and above",31,27808644.83,0.0164,57
+geography,Alabama,490,29032253.29,0.0171,58
+geography,Alaska,1,26470.40,0.00,58
+geography,Arizona,90,11772629.63,0.0069,58
+geography,Arkansas,566,51001892.04,0.0301,58
+geography,California,643,64125082.34,0.0379,58
+geography,Colorado,333,38733502.05,0.0229,58
+geography,Connecticut,54,5923975.41,0.0035,58
+geography,Delaware,21,2284514.36,0.0013,58
+geography,District of Columbia,1,17982.22,0.00,58
+geography,Florida,771,64195525.44,0.0379,58
+geography,Georgia,677,53982934.13,0.0319,58
+geography,Hawaii,14,1359500.97,0.0008,58
+geography,Idaho,222,27038871.04,0.016,58
+geography,Illinois,976,97984660.63,0.0578,58
+geography,Indiana,612,56935803.44,0.0336,58
+geography,Iowa,995,97635055.40,0.0576,58
+geography,Kansas,730,79390902.20,0.0469,58
+geography,Kentucky,434,31529413.17,0.0186,58
+geography,Louisiana,305,28297998.94,0.0167,58
+geography,Maine,37,2986125.53,0.0018,58
+geography,Maryland,106,6746318.67,0.004,58
+geography,Massachusetts,29,1701306.30,0.001,58
+geography,Michigan,371,31830249.91,0.0188,58
+geography,Minnesota,751,76323394.04,0.0451,58
+geography,Mississippi,482,44426128.99,0.0262,58
+geography,Missouri,1035,76965660.05,0.0454,58
+geography,Montana,234,22358409.55,0.0132,58
+geography,Nebraska,900,103746154.78,0.0612,58
+geography,Nevada,25,2263226.51,0.0013,58
+geography,New Hampshire,17,1262482.31,0.0007,58
+geography,New Jersey,81,7578083.02,0.0045,58
+geography,New Mexico,116,9627866.51,0.0057,58
+geography,New York,205,13823111.65,0.0082,58
+geography,North Carolina,514,43724651.34,0.0258,58
+geography,North Dakota,542,61799231.33,0.0365,58
+geography,Ohio,495,39067954.11,0.0231,58
+geography,Oklahoma,878,46017444.00,0.0272,58
+geography,Oregon,163,14725335.39,0.0087,58
+geography,Pennsylvania,159,15426859.91,0.0091,58
+geography,Rhode Island,9,1316718.28,0.0008,58
+geography,South Carolina,214,13047701.80,0.0077,58
+geography,South Dakota,188,12119437.75,0.0072,58
+geography,Tennessee,434,28584202.31,0.0169,58
+geography,Texas,2125,174744120.33,0.1032,58
+geography,Utah,79,7736864.78,0.0046,58
+geography,Vermont,36,2679804.77,0.0016,58
+geography,Virginia,202,16419343.82,0.0097,58
+geography,Washington,217,25042330.91,0.0148,58
+geography,West Virginia,96,4621166.50,0.0027,58
+geography,Wisconsin,418,39522620.76,0.0233,58
+geography,Wyoming,63,4497878.30,0.0027,58

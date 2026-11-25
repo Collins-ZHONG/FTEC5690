@@ -1,0 +1,14 @@
+item,value,unit,as_of,source
+receivables,19156,count,2024-04-28,Prospectus printed p54
+pool_including_accruals,1694001151.31,USD,2024-04-28,Prospectus printed p54
+accrued_interest,23999934.84,USD,2024-04-28,Prospectus printed p54
+pool_excluding_accruals,1670001216.47,USD,2024-04-28,Opening pool in July 2024 Ex99.1 section 4
+initial_note_value,1562473742.82,USD,2024-04-28,Prospectus printed p92
+original_notes_principal,1523411000,USD,2024-06-18,Prospectus cover and June 18 indenture
+initial_reserve,15624737.43,USD,2024-06-18,July 2024 Ex99.3 section 6
+weighted_apr,0.04745,decimal/year,2024-04-28,Prospectus printed p54
+weighted_original_term,55.84,months,2024-04-28,Prospectus printed p54
+weighted_remaining_term,45.42,months,2024-04-28,Prospectus printed p54
+weighted_fico_available,756,score,2024-04-28,Prospectus printed p54 excludes 23.48 percent by balance
+missing_fico_balance_share,0.2348,decimal,2024-04-28,Prospectus printed p54
+contract_note_value_discount,0.0885,decimal/year,2024-04-28,Prospectus printed p92

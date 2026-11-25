@@ -1,0 +1,1110 @@
+﻿period,check,difference,tolerance,status
+2024-07,A-1 balance roll,0.00,0.021,pass
+2024-07,A-1 interest accrual,0E-7,0.021,pass
+2024-07,A-1 closing vs certificate,0.00,0.021,pass
+2024-07,A-2A balance roll,0.00,0.021,pass
+2024-07,A-2A interest accrual,0.000000,0.021,pass
+2024-07,A-2A closing vs certificate,0.00,0.021,pass
+2024-07,A-2B balance roll,0.00,0.021,pass
+2024-07,A-2B interest accrual,-0.000875000,0.021,pass
+2024-07,A-2B closing vs certificate,0.00,0.021,pass
+2024-07,A-3 balance roll,0.00,0.021,pass
+2024-07,A-3 interest accrual,0.000000,0.021,pass
+2024-07,A-3 closing vs certificate,0.00,0.021,pass
+2024-07,A-4 balance roll,0.00,0.021,pass
+2024-07,A-4 interest accrual,-0.002500,0.021,pass
+2024-07,A-4 closing vs certificate,0.00,0.021,pass
+2024-07,30+ buckets payoff_amount,0.00,0.04,pass
+2024-07,30+ buckets accounts,0,0,pass
+2024-07,60+ ratio from buckets,0.000014528036399727447897888479,0.000051,pass
+2024-07,interest_paid sum,0.00,0.021,pass
+2024-07,principal_paid sum,0.00,0.021,pass
+2024-07,note value decline,0.00,0.021,pass
+2024-07,overcollateralization,-0.18,0.51,pass
+2024-07,receipts,0.00,0.021,pass
+2024-07,waterfall uses,0.00,0.05,pass
+2024-07,net loss components,0.00,0.021,pass
+2024-07,A-2B coupon reset,0E-7,1E-7,pass
+2024-07,reserve continuity,0.00,0.021,pass
+2024-07,A-1 principal priority,0,0.021,pass
+2024-07,A2 pro rata per original dollar,0.00,1E-9,pass
+2024-08,A-1 balance roll,0.00,0.021,pass
+2024-08,A-1 interest accrual,0.001719108333333333333,0.021,pass
+2024-08,A-1 closing vs certificate,0.00,0.021,pass
+2024-08,A-2A balance roll,0.00,0.021,pass
+2024-08,A-2A interest accrual,0.000000,0.021,pass
+2024-08,A-2A closing vs certificate,0.00,0.021,pass
+2024-08,A-2B balance roll,0.00,0.021,pass
+2024-08,A-2B interest accrual,0.002875000,0.021,pass
+2024-08,A-2B closing vs certificate,0.00,0.021,pass
+2024-08,A-3 balance roll,0.00,0.021,pass
+2024-08,A-3 interest accrual,0.000000,0.021,pass
+2024-08,A-3 closing vs certificate,0.00,0.021,pass
+2024-08,A-4 balance roll,0.00,0.021,pass
+2024-08,A-4 interest accrual,-0.005000,0.021,pass
+2024-08,A-4 closing vs certificate,0.00,0.021,pass
+2024-08,30+ buckets payoff_amount,0.00,0.04,pass
+2024-08,30+ buckets accounts,0,0,pass
+2024-08,60+ ratio from buckets,-0.000035894681581048434682748632,0.000051,pass
+2024-08,interest_paid sum,0.00,0.021,pass
+2024-08,principal_paid sum,0.00,0.021,pass
+2024-08,note value decline,0.00,0.021,pass
+2024-08,overcollateralization,-0.18,0.51,pass
+2024-08,receipts,0.00,0.021,pass
+2024-08,waterfall uses,0.00,0.05,pass
+2024-08,net loss components,0.00,0.021,pass
+2024-08,pool continuity,0.00,0.021,pass
+2024-08,cumulative loss roll,0.00,0.021,pass
+2024-08,prepayment cumulative roll,0.00,0.021,pass
+2024-08,A-2B coupon reset,0E-7,1E-7,pass
+2024-08,reserve continuity,0.00,0.021,pass
+2024-08,contract servicing fee,-0.003,0.021,pass
+2024-08,A-1 continuity,0.00,0.021,pass
+2024-08,A-2A continuity,0.00,0.021,pass
+2024-08,A-2B continuity,0.00,0.021,pass
+2024-08,A-3 continuity,0.00,0.021,pass
+2024-08,A-4 continuity,0.00,0.021,pass
+2024-08,A-1 principal priority,0,0.021,pass
+2024-08,A2 pro rata per original dollar,0.00,1E-9,pass
+2024-09,A-1 balance roll,0.00,0.021,pass
+2024-09,A-1 interest accrual,-0.004529511111111111111,0.021,pass
+2024-09,A-1 closing vs certificate,0.00,0.021,pass
+2024-09,A-2A balance roll,0.00,0.021,pass
+2024-09,A-2A interest accrual,0.000000,0.021,pass
+2024-09,A-2A closing vs certificate,0.00,0.021,pass
+2024-09,A-2B balance roll,0.00,0.021,pass
+2024-09,A-2B interest accrual,0.002666666666666666667,0.021,pass
+2024-09,A-2B closing vs certificate,0.00,0.021,pass
+2024-09,A-3 balance roll,0.00,0.021,pass
+2024-09,A-3 interest accrual,0.000000,0.021,pass
+2024-09,A-3 closing vs certificate,0.00,0.021,pass
+2024-09,A-4 balance roll,0.00,0.021,pass
+2024-09,A-4 interest accrual,-0.005000,0.021,pass
+2024-09,A-4 closing vs certificate,0.00,0.021,pass
+2024-09,30+ buckets payoff_amount,0.00,0.04,pass
+2024-09,30+ buckets accounts,0,0,pass
+2024-09,60+ ratio from buckets,0.000028951170466406160573817009,0.000051,pass
+2024-09,interest_paid sum,0.00,0.021,pass
+2024-09,principal_paid sum,0.00,0.021,pass
+2024-09,note value decline,0.00,0.021,pass
+2024-09,overcollateralization,-0.18,0.51,pass
+2024-09,receipts,0.00,0.021,pass
+2024-09,waterfall uses,0.00,0.05,pass
+2024-09,net loss components,0.00,0.021,pass
+2024-09,pool continuity,0.00,0.021,pass
+2024-09,cumulative loss roll,-0.01,0.021,pass
+2024-09,prepayment cumulative roll,0.00,0.021,pass
+2024-09,A-2B coupon reset,0E-7,1E-7,pass
+2024-09,reserve continuity,0.00,0.021,pass
+2024-09,contract servicing fee,0.002716666666666666667,0.021,pass
+2024-09,A-1 continuity,0.00,0.021,pass
+2024-09,A-2A continuity,0.00,0.021,pass
+2024-09,A-2B continuity,0.00,0.021,pass
+2024-09,A-3 continuity,0.00,0.021,pass
+2024-09,A-4 continuity,0.00,0.021,pass
+2024-09,A-1 principal priority,0,0.021,pass
+2024-09,A2 pro rata per original dollar,0.00,1E-9,pass
+2024-10,A-1 balance roll,0.00,0.021,pass
+2024-10,A-1 interest accrual,-0.0012828027777777777778,0.021,pass
+2024-10,A-1 closing vs certificate,0.00,0.021,pass
+2024-10,A-2A balance roll,0.00,0.021,pass
+2024-10,A-2A interest accrual,0.000000,0.021,pass
+2024-10,A-2A closing vs certificate,0.00,0.021,pass
+2024-10,A-2B balance roll,0.00,0.021,pass
+2024-10,A-2B interest accrual,0.001541666666666666667,0.021,pass
+2024-10,A-2B closing vs certificate,0.00,0.021,pass
+2024-10,A-3 balance roll,0.00,0.021,pass
+2024-10,A-3 interest accrual,0.000000,0.021,pass
+2024-10,A-3 closing vs certificate,0.00,0.021,pass
+2024-10,A-4 balance roll,0.00,0.021,pass
+2024-10,A-4 interest accrual,-0.005000,0.021,pass
+2024-10,A-4 closing vs certificate,0.00,0.021,pass
+2024-10,30+ buckets payoff_amount,0.00,0.04,pass
+2024-10,30+ buckets accounts,0,0,pass
+2024-10,60+ ratio from buckets,0.000019821616043815580924172686,0.000051,pass
+2024-10,interest_paid sum,0.00,0.021,pass
+2024-10,principal_paid sum,0.00,0.021,pass
+2024-10,note value decline,0.00,0.021,pass
+2024-10,overcollateralization,-0.18,0.51,pass
+2024-10,receipts,0.00,0.021,pass
+2024-10,waterfall uses,0.00,0.05,pass
+2024-10,net loss components,0.00,0.021,pass
+2024-10,pool continuity,0.00,0.021,pass
+2024-10,cumulative loss roll,0.00,0.021,pass
+2024-10,prepayment cumulative roll,0.00,0.021,pass
+2024-10,A-2B coupon reset,0E-7,1E-7,pass
+2024-10,reserve continuity,0.00,0.021,pass
+2024-10,contract servicing fee,-0.004358333333333333333,0.021,pass
+2024-10,A-1 continuity,0.00,0.021,pass
+2024-10,A-2A continuity,0.00,0.021,pass
+2024-10,A-2B continuity,0.00,0.021,pass
+2024-10,A-3 continuity,0.00,0.021,pass
+2024-10,A-4 continuity,0.00,0.021,pass
+2024-10,A-1 principal priority,0,0.021,pass
+2024-10,A2 pro rata per original dollar,0.00,1E-9,pass
+2024-11,A-1 balance roll,0.00,0.021,pass
+2024-11,A-1 interest accrual,-0.0007032472222222222222,0.021,pass
+2024-11,A-1 closing vs certificate,0.00,0.021,pass
+2024-11,A-2A balance roll,0.00,0.021,pass
+2024-11,A-2A interest accrual,0.000000,0.021,pass
+2024-11,A-2A closing vs certificate,0.00,0.021,pass
+2024-11,A-2B balance roll,0.00,0.021,pass
+2024-11,A-2B interest accrual,-0.002125000,0.021,pass
+2024-11,A-2B closing vs certificate,0.00,0.021,pass
+2024-11,A-3 balance roll,0.00,0.021,pass
+2024-11,A-3 interest accrual,0.000000,0.021,pass
+2024-11,A-3 closing vs certificate,0.00,0.021,pass
+2024-11,A-4 balance roll,0.00,0.021,pass
+2024-11,A-4 interest accrual,-0.005000,0.021,pass
+2024-11,A-4 closing vs certificate,0.00,0.021,pass
+2024-11,30+ buckets payoff_amount,0.00,0.04,pass
+2024-11,30+ buckets accounts,0,0,pass
+2024-11,60+ ratio from buckets,0.00004829290229788168533662637,0.000051,pass
+2024-11,interest_paid sum,0.00,0.021,pass
+2024-11,principal_paid sum,0.00,0.021,pass
+2024-11,note value decline,0.00,0.021,pass
+2024-11,overcollateralization,-0.18,0.51,pass
+2024-11,receipts,0.00,0.021,pass
+2024-11,waterfall uses,0.00,0.05,pass
+2024-11,net loss components,0.00,0.021,pass
+2024-11,pool continuity,0.00,0.021,pass
+2024-11,cumulative loss roll,0.00,0.021,pass
+2024-11,prepayment cumulative roll,0.00,0.021,pass
+2024-11,A-2B coupon reset,0E-7,1E-7,pass
+2024-11,reserve continuity,0.00,0.021,pass
+2024-11,contract servicing fee,0.002783333333333333333,0.021,pass
+2024-11,A-1 continuity,0.00,0.021,pass
+2024-11,A-2A continuity,0.00,0.021,pass
+2024-11,A-2B continuity,0.00,0.021,pass
+2024-11,A-3 continuity,0.00,0.021,pass
+2024-11,A-4 continuity,0.00,0.021,pass
+2024-11,A-1 principal priority,0,0.021,pass
+2024-11,A2 pro rata per original dollar,0.00,1E-9,pass
+2024-12,A-1 balance roll,0.00,0.021,pass
+2024-12,A-1 interest accrual,0.0000299416666666666667,0.021,pass
+2024-12,A-1 closing vs certificate,0.00,0.021,pass
+2024-12,A-2A balance roll,0.00,0.021,pass
+2024-12,A-2A interest accrual,0.000000,0.021,pass
+2024-12,A-2A closing vs certificate,0.00,0.021,pass
+2024-12,A-2B balance roll,0.00,0.021,pass
+2024-12,A-2B interest accrual,0.001125000,0.021,pass
+2024-12,A-2B closing vs certificate,0.00,0.021,pass
+2024-12,A-3 balance roll,0.00,0.021,pass
+2024-12,A-3 interest accrual,0.000000,0.021,pass
+2024-12,A-3 closing vs certificate,0.00,0.021,pass
+2024-12,A-4 balance roll,0.00,0.021,pass
+2024-12,A-4 interest accrual,-0.005000,0.021,pass
+2024-12,A-4 closing vs certificate,0.00,0.021,pass
+2024-12,30+ buckets payoff_amount,0.00,0.04,pass
+2024-12,30+ buckets accounts,0,0,pass
+2024-12,60+ ratio from buckets,0.00000197875171728521029237255,0.000051,pass
+2024-12,interest_paid sum,0.00,0.021,pass
+2024-12,principal_paid sum,0.00,0.021,pass
+2024-12,note value decline,0.00,0.021,pass
+2024-12,overcollateralization,-0.18,0.51,pass
+2024-12,receipts,0.00,0.021,pass
+2024-12,waterfall uses,0.00,0.05,pass
+2024-12,net loss components,0.00,0.021,pass
+2024-12,pool continuity,0.00,0.021,pass
+2024-12,cumulative loss roll,0.00,0.021,pass
+2024-12,prepayment cumulative roll,0.00,0.021,pass
+2024-12,A-2B coupon reset,0E-7,1E-7,pass
+2024-12,reserve continuity,0.00,0.021,pass
+2024-12,contract servicing fee,0.001133333333333333333,0.021,pass
+2024-12,A-1 continuity,0.00,0.021,pass
+2024-12,A-2A continuity,0.00,0.021,pass
+2024-12,A-2B continuity,0.00,0.021,pass
+2024-12,A-3 continuity,0.00,0.021,pass
+2024-12,A-4 continuity,0.00,0.021,pass
+2024-12,A-1 principal priority,0,0.021,pass
+2024-12,A2 pro rata per original dollar,0.00,1E-9,pass
+2025-01,A-1 balance roll,0.00,0.021,pass
+2025-01,A-1 interest accrual,0.0041500,0.021,pass
+2025-01,A-1 closing vs certificate,0.00,0.021,pass
+2025-01,A-2A balance roll,0.00,0.021,pass
+2025-01,A-2A interest accrual,0.000000,0.021,pass
+2025-01,A-2A closing vs certificate,0.00,0.021,pass
+2025-01,A-2B balance roll,0.00,0.021,pass
+2025-01,A-2B interest accrual,0.003750000,0.021,pass
+2025-01,A-2B closing vs certificate,0.00,0.021,pass
+2025-01,A-3 balance roll,0.00,0.021,pass
+2025-01,A-3 interest accrual,0.000000,0.021,pass
+2025-01,A-3 closing vs certificate,0.00,0.021,pass
+2025-01,A-4 balance roll,0.00,0.021,pass
+2025-01,A-4 interest accrual,-0.005000,0.021,pass
+2025-01,A-4 closing vs certificate,0.00,0.021,pass
+2025-01,30+ buckets payoff_amount,0.00,0.04,pass
+2025-01,30+ buckets accounts,0,0,pass
+2025-01,60+ ratio from buckets,-0.00002316533706056183096882041,0.000051,pass
+2025-01,interest_paid sum,0.00,0.021,pass
+2025-01,principal_paid sum,0.00,0.021,pass
+2025-01,note value decline,0.00,0.021,pass
+2025-01,overcollateralization,-0.18,0.51,pass
+2025-01,receipts,0.00,0.021,pass
+2025-01,waterfall uses,0.00,0.05,pass
+2025-01,net loss components,0.00,0.021,pass
+2025-01,pool continuity,0.00,0.021,pass
+2025-01,cumulative loss roll,0.00,0.021,pass
+2025-01,prepayment cumulative roll,0.00,0.021,pass
+2025-01,A-2B coupon reset,0E-7,1E-7,pass
+2025-01,reserve continuity,0.00,0.021,pass
+2025-01,contract servicing fee,-0.00055,0.021,pass
+2025-01,A-1 continuity,0.00,0.021,pass
+2025-01,A-2A continuity,0.00,0.021,pass
+2025-01,A-2B continuity,0.00,0.021,pass
+2025-01,A-3 continuity,0.00,0.021,pass
+2025-01,A-4 continuity,0.00,0.021,pass
+2025-01,A-1 principal priority,0,0.021,pass
+2025-01,A2 pro rata per original dollar,0.00,1E-9,pass
+2025-02,A-1 balance roll,0.00,0.021,pass
+2025-02,A-1 interest accrual,0.0038127888888888888889,0.021,pass
+2025-02,A-1 closing vs certificate,0.00,0.021,pass
+2025-02,A-2A balance roll,0.00,0.021,pass
+2025-02,A-2A interest accrual,0.000000,0.021,pass
+2025-02,A-2A closing vs certificate,0.00,0.021,pass
+2025-02,A-2B balance roll,0.00,0.021,pass
+2025-02,A-2B interest accrual,0.003500000,0.021,pass
+2025-02,A-2B closing vs certificate,0.00,0.021,pass
+2025-02,A-3 balance roll,0.00,0.021,pass
+2025-02,A-3 interest accrual,0.000000,0.021,pass
+2025-02,A-3 closing vs certificate,0.00,0.021,pass
+2025-02,A-4 balance roll,0.00,0.021,pass
+2025-02,A-4 interest accrual,-0.005000,0.021,pass
+2025-02,A-4 closing vs certificate,0.00,0.021,pass
+2025-02,30+ buckets payoff_amount,0.00,0.04,pass
+2025-02,30+ buckets accounts,0,0,pass
+2025-02,60+ ratio from buckets,0.00002413336203284487251455194,0.000051,pass
+2025-02,interest_paid sum,0.00,0.021,pass
+2025-02,principal_paid sum,0.00,0.021,pass
+2025-02,note value decline,0.00,0.021,pass
+2025-02,overcollateralization,-0.18,0.51,pass
+2025-02,receipts,0.00,0.021,pass
+2025-02,waterfall uses,0.00,0.05,pass
+2025-02,net loss components,0.00,0.021,pass
+2025-02,pool continuity,0.00,0.021,pass
+2025-02,cumulative loss roll,0.00,0.021,pass
+2025-02,prepayment cumulative roll,0.00,0.021,pass
+2025-02,A-2B coupon reset,0E-7,1E-7,pass
+2025-02,reserve continuity,0.00,0.021,pass
+2025-02,contract servicing fee,0.004,0.021,pass
+2025-02,A-1 continuity,0.00,0.021,pass
+2025-02,A-2A continuity,0.00,0.021,pass
+2025-02,A-2B continuity,0.00,0.021,pass
+2025-02,A-3 continuity,0.00,0.021,pass
+2025-02,A-4 continuity,0.00,0.021,pass
+2025-02,A-1 principal priority,0,0.021,pass
+2025-02,A-2A principal priority,0.00,0.021,pass
+2025-02,A-2B principal priority,0.00,0.021,pass
+2025-02,A2 pro rata per original dollar,-2.238987051375377761E-11,1E-9,pass
+2025-03,A-1 balance roll,0.00,0.021,pass
+2025-03,A-1 interest accrual,0E-7,0.021,pass
+2025-03,A-1 closing vs certificate,0.00,0.021,pass
+2025-03,A-2A balance roll,0.00,0.021,pass
+2025-03,A-2A interest accrual,-0.004144166666666666667,0.021,pass
+2025-03,A-2A closing vs certificate,0.00,0.021,pass
+2025-03,A-2B balance roll,0.00,0.021,pass
+2025-03,A-2B interest accrual,-0.0033269844,0.021,pass
+2025-03,A-2B closing vs certificate,0.00,0.021,pass
+2025-03,A-3 balance roll,0.00,0.021,pass
+2025-03,A-3 interest accrual,0.000000,0.021,pass
+2025-03,A-3 closing vs certificate,0.00,0.021,pass
+2025-03,A-4 balance roll,0.00,0.021,pass
+2025-03,A-4 interest accrual,-0.005000,0.021,pass
+2025-03,A-4 closing vs certificate,0.00,0.021,pass
+2025-03,30+ buckets payoff_amount,0.00,0.04,pass
+2025-03,30+ buckets accounts,0,0,pass
+2025-03,60+ ratio from buckets,0.00000353333149207919380105187,0.000051,pass
+2025-03,interest_paid sum,0.00,0.021,pass
+2025-03,principal_paid sum,0.00,0.021,pass
+2025-03,note value decline,0.00,0.021,pass
+2025-03,overcollateralization,-0.18,0.51,pass
+2025-03,receipts,0.00,0.021,pass
+2025-03,waterfall uses,0.00,0.05,pass
+2025-03,net loss components,0.00,0.021,pass
+2025-03,pool continuity,0.00,0.021,pass
+2025-03,cumulative loss roll,0.00,0.021,pass
+2025-03,prepayment cumulative roll,0.00,0.021,pass
+2025-03,A-2B coupon reset,0E-7,1E-7,pass
+2025-03,reserve continuity,0.00,0.021,pass
+2025-03,contract servicing fee,-0.000225,0.021,pass
+2025-03,A-1 continuity,0.00,0.021,pass
+2025-03,A-2A continuity,0.00,0.021,pass
+2025-03,A-2B continuity,0.00,0.021,pass
+2025-03,A-3 continuity,0.00,0.021,pass
+2025-03,A-4 continuity,0.00,0.021,pass
+2025-03,A-2A principal priority,0.00,0.021,pass
+2025-03,A-2B principal priority,0.00,0.021,pass
+2025-03,A2 pro rata per original dollar,3.818410429488452121E-11,1E-9,pass
+2025-04,A-1 balance roll,0.00,0.021,pass
+2025-04,A-1 interest accrual,0E-7,0.021,pass
+2025-04,A-1 closing vs certificate,0.00,0.021,pass
+2025-04,A-2A balance roll,-0.01,0.021,pass
+2025-04,A-2A interest accrual,0.002619333333333333333,0.021,pass
+2025-04,A-2A closing vs certificate,0.00,0.021,pass
+2025-04,A-2B balance roll,0.01,0.021,pass
+2025-04,A-2B interest accrual,-0.0039757218833333333333,0.021,pass
+2025-04,A-2B closing vs certificate,0.00,0.021,pass
+2025-04,A-3 balance roll,0.00,0.021,pass
+2025-04,A-3 interest accrual,0.000000,0.021,pass
+2025-04,A-3 closing vs certificate,0.00,0.021,pass
+2025-04,A-4 balance roll,0.00,0.021,pass
+2025-04,A-4 interest accrual,-0.005000,0.021,pass
+2025-04,A-4 closing vs certificate,0.00,0.021,pass
+2025-04,30+ buckets payoff_amount,0.00,0.04,pass
+2025-04,30+ buckets accounts,0,0,pass
+2025-04,60+ ratio from buckets,0.00001039147348943298509108690,0.000051,pass
+2025-04,interest_paid sum,0.00,0.021,pass
+2025-04,principal_paid sum,0.00,0.021,pass
+2025-04,note value decline,0.00,0.021,pass
+2025-04,overcollateralization,-0.18,0.51,pass
+2025-04,receipts,0.00,0.021,pass
+2025-04,waterfall uses,0.00,0.05,pass
+2025-04,net loss components,0.00,0.021,pass
+2025-04,pool continuity,0.00,0.021,pass
+2025-04,cumulative loss roll,0.00,0.021,pass
+2025-04,prepayment cumulative roll,0.00,0.021,pass
+2025-04,A-2B coupon reset,0E-7,1E-7,pass
+2025-04,reserve continuity,0.00,0.021,pass
+2025-04,contract servicing fee,-0.0040166666666666666667,0.021,pass
+2025-04,A-1 continuity,0.00,0.021,pass
+2025-04,A-2A continuity,0.00,0.021,pass
+2025-04,A-2B continuity,0.00,0.021,pass
+2025-04,A-3 continuity,0.00,0.021,pass
+2025-04,A-4 continuity,0.00,0.021,pass
+2025-04,A-2A principal priority,0.00,0.021,pass
+2025-04,A-2B principal priority,0.00,0.021,pass
+2025-04,A2 pro rata per original dollar,3.483113846425341363E-11,1E-9,pass
+2025-05,A-1 balance roll,0.00,0.021,pass
+2025-05,A-1 interest accrual,0E-7,0.021,pass
+2025-05,A-1 closing vs certificate,0.00,0.021,pass
+2025-05,A-2A balance roll,0.00,0.021,pass
+2025-05,A-2A interest accrual,0.0020026666666666666667,0.021,pass
+2025-05,A-2A closing vs certificate,0.00,0.021,pass
+2025-05,A-2B balance roll,0.00,0.021,pass
+2025-05,A-2B interest accrual,0.0044875025,0.021,pass
+2025-05,A-2B closing vs certificate,0.00,0.021,pass
+2025-05,A-3 balance roll,0.00,0.021,pass
+2025-05,A-3 interest accrual,0.000000,0.021,pass
+2025-05,A-3 closing vs certificate,0.00,0.021,pass
+2025-05,A-4 balance roll,0.00,0.021,pass
+2025-05,A-4 interest accrual,-0.005000,0.021,pass
+2025-05,A-4 closing vs certificate,0.00,0.021,pass
+2025-05,30+ buckets payoff_amount,0.00,0.04,pass
+2025-05,30+ buckets accounts,0,0,pass
+2025-05,60+ ratio from buckets,-0.00003774226215846018176732521,0.000051,pass
+2025-05,interest_paid sum,0.00,0.021,pass
+2025-05,principal_paid sum,0.00,0.021,pass
+2025-05,note value decline,0.00,0.021,pass
+2025-05,overcollateralization,-0.18,0.51,pass
+2025-05,receipts,0.00,0.021,pass
+2025-05,waterfall uses,0.00,0.05,pass
+2025-05,net loss components,0.00,0.021,pass
+2025-05,pool continuity,0.00,0.021,pass
+2025-05,cumulative loss roll,0.00,0.021,pass
+2025-05,prepayment cumulative roll,0.00,0.021,pass
+2025-05,A-2B coupon reset,0E-7,1E-7,pass
+2025-05,reserve continuity,0.00,0.021,pass
+2025-05,contract servicing fee,-0.0003083333333333333333,0.021,pass
+2025-05,A-1 continuity,0.00,0.021,pass
+2025-05,A-2A continuity,0.00,0.021,pass
+2025-05,A-2B continuity,0.00,0.021,pass
+2025-05,A-3 continuity,0.00,0.021,pass
+2025-05,A-4 continuity,0.00,0.021,pass
+2025-05,A-2A principal priority,0.00,0.021,pass
+2025-05,A-2B principal priority,0.00,0.021,pass
+2025-05,A2 pro rata per original dollar,2.99119846469459334E-11,1E-9,pass
+2025-06,A-1 balance roll,0.00,0.021,pass
+2025-06,A-1 interest accrual,0E-7,0.021,pass
+2025-06,A-1 closing vs certificate,0.00,0.021,pass
+2025-06,A-2A balance roll,0.00,0.021,pass
+2025-06,A-2A interest accrual,0.0022286666666666666667,0.021,pass
+2025-06,A-2A closing vs certificate,0.00,0.021,pass
+2025-06,A-2B balance roll,0.00,0.021,pass
+2025-06,A-2B interest accrual,0.0031354784,0.021,pass
+2025-06,A-2B closing vs certificate,0.00,0.021,pass
+2025-06,A-3 balance roll,0.00,0.021,pass
+2025-06,A-3 interest accrual,0.000000,0.021,pass
+2025-06,A-3 closing vs certificate,0.00,0.021,pass
+2025-06,A-4 balance roll,0.00,0.021,pass
+2025-06,A-4 interest accrual,-0.005000,0.021,pass
+2025-06,A-4 closing vs certificate,0.00,0.021,pass
+2025-06,30+ buckets payoff_amount,0.00,0.04,pass
+2025-06,30+ buckets accounts,0,0,pass
+2025-06,60+ ratio from buckets,-0.00002235603515085028543114685,0.000051,pass
+2025-06,interest_paid sum,0.00,0.021,pass
+2025-06,principal_paid sum,0.00,0.021,pass
+2025-06,note value decline,0.00,0.021,pass
+2025-06,overcollateralization,-0.18,0.51,pass
+2025-06,receipts,0.00,0.021,pass
+2025-06,waterfall uses,0.00,0.05,pass
+2025-06,net loss components,0.00,0.021,pass
+2025-06,pool continuity,0.00,0.021,pass
+2025-06,cumulative loss roll,0.01,0.021,pass
+2025-06,prepayment cumulative roll,0.01,0.021,pass
+2025-06,A-2B coupon reset,0E-7,1E-7,pass
+2025-06,reserve continuity,0.00,0.021,pass
+2025-06,contract servicing fee,0.0013583333333333333333,0.021,pass
+2025-06,A-1 continuity,0.00,0.021,pass
+2025-06,A-2A continuity,0.00,0.021,pass
+2025-06,A-2B continuity,0.00,0.021,pass
+2025-06,A-3 continuity,0.00,0.021,pass
+2025-06,A-4 continuity,0.00,0.021,pass
+2025-06,A-2A principal priority,0.00,0.021,pass
+2025-06,A-2B principal priority,0.00,0.021,pass
+2025-06,A2 pro rata per original dollar,-1.592658769549776101E-11,1E-9,pass
+2025-07,A-1 balance roll,0.00,0.021,pass
+2025-07,A-1 interest accrual,0E-7,0.021,pass
+2025-07,A-1 closing vs certificate,0.00,0.021,pass
+2025-07,A-2A balance roll,0.00,0.021,pass
+2025-07,A-2A interest accrual,0.0049583333333333333333,0.021,pass
+2025-07,A-2A closing vs certificate,0.00,0.021,pass
+2025-07,A-2B balance roll,0.00,0.021,pass
+2025-07,A-2B interest accrual,-0.0025645835833333333333,0.021,pass
+2025-07,A-2B closing vs certificate,0.00,0.021,pass
+2025-07,A-3 balance roll,0.00,0.021,pass
+2025-07,A-3 interest accrual,0.000000,0.021,pass
+2025-07,A-3 closing vs certificate,0.00,0.021,pass
+2025-07,A-4 balance roll,0.00,0.021,pass
+2025-07,A-4 interest accrual,-0.005000,0.021,pass
+2025-07,A-4 closing vs certificate,0.00,0.021,pass
+2025-07,30+ buckets payoff_amount,0.00,0.04,pass
+2025-07,30+ buckets accounts,0,0,pass
+2025-07,60+ ratio from buckets,-0.00000785870604737161642103035,0.000051,pass
+2025-07,interest_paid sum,0.00,0.021,pass
+2025-07,principal_paid sum,0.00,0.021,pass
+2025-07,note value decline,0.00,0.021,pass
+2025-07,overcollateralization,-0.18,0.51,pass
+2025-07,receipts,0.00,0.021,pass
+2025-07,waterfall uses,0.00,0.05,pass
+2025-07,net loss components,0.00,0.021,pass
+2025-07,pool continuity,0.00,0.021,pass
+2025-07,cumulative loss roll,0.00,0.021,pass
+2025-07,prepayment cumulative roll,0.00,0.021,pass
+2025-07,A-2B coupon reset,0E-7,1E-7,pass
+2025-07,reserve continuity,0.00,0.021,pass
+2025-07,contract servicing fee,-0.0003166666666666666667,0.021,pass
+2025-07,A-1 continuity,0.00,0.021,pass
+2025-07,A-2A continuity,0.00,0.021,pass
+2025-07,A-2B continuity,0.00,0.021,pass
+2025-07,A-3 continuity,0.00,0.021,pass
+2025-07,A-4 continuity,0.00,0.021,pass
+2025-07,A-2A principal priority,0.00,0.021,pass
+2025-07,A-2B principal priority,0.00,0.021,pass
+2025-07,A2 pro rata per original dollar,2.58090133015683939E-12,1E-9,pass
+2025-08,A-1 balance roll,0.00,0.021,pass
+2025-08,A-1 interest accrual,0E-7,0.021,pass
+2025-08,A-1 closing vs certificate,0.00,0.021,pass
+2025-08,A-2A balance roll,0.00,0.021,pass
+2025-08,A-2A interest accrual,-0.0020971666666666666667,0.021,pass
+2025-08,A-2A closing vs certificate,0.00,0.021,pass
+2025-08,A-2B balance roll,0.00,0.021,pass
+2025-08,A-2B interest accrual,0.00238511595,0.021,pass
+2025-08,A-2B closing vs certificate,0.00,0.021,pass
+2025-08,A-3 balance roll,0.00,0.021,pass
+2025-08,A-3 interest accrual,0.000000,0.021,pass
+2025-08,A-3 closing vs certificate,0.00,0.021,pass
+2025-08,A-4 balance roll,0.00,0.021,pass
+2025-08,A-4 interest accrual,-0.005000,0.021,pass
+2025-08,A-4 closing vs certificate,0.00,0.021,pass
+2025-08,30+ buckets payoff_amount,0.00,0.04,pass
+2025-08,30+ buckets accounts,0,0,pass
+2025-08,60+ ratio from buckets,0.00001902226006025049745607007,0.000051,pass
+2025-08,interest_paid sum,0.00,0.021,pass
+2025-08,principal_paid sum,0.00,0.021,pass
+2025-08,note value decline,0.00,0.021,pass
+2025-08,overcollateralization,-0.18,0.51,pass
+2025-08,receipts,0.00,0.021,pass
+2025-08,waterfall uses,0.00,0.05,pass
+2025-08,net loss components,0.00,0.021,pass
+2025-08,pool continuity,0.00,0.021,pass
+2025-08,cumulative loss roll,-0.01,0.021,pass
+2025-08,prepayment cumulative roll,0.00,0.021,pass
+2025-08,A-2B coupon reset,0E-7,1E-7,pass
+2025-08,reserve continuity,0.00,0.021,pass
+2025-08,contract servicing fee,0.0021,0.021,pass
+2025-08,A-1 continuity,0.00,0.021,pass
+2025-08,A-2A continuity,0.00,0.021,pass
+2025-08,A-2B continuity,0.00,0.021,pass
+2025-08,A-3 continuity,0.00,0.021,pass
+2025-08,A-4 continuity,0.00,0.021,pass
+2025-08,A-2A principal priority,0.00,0.021,pass
+2025-08,A-2B principal priority,0.00,0.021,pass
+2025-08,A2 pro rata per original dollar,3.220611916264090177E-11,1E-9,pass
+2025-09,A-1 balance roll,0.00,0.021,pass
+2025-09,A-1 interest accrual,0E-7,0.021,pass
+2025-09,A-1 closing vs certificate,0.00,0.021,pass
+2025-09,A-2A balance roll,-0.01,0.021,pass
+2025-09,A-2A interest accrual,0.0007461666666666666667,0.021,pass
+2025-09,A-2A closing vs certificate,0.00,0.021,pass
+2025-09,A-2B balance roll,0.00,0.021,pass
+2025-09,A-2B interest accrual,0.002727353,0.021,pass
+2025-09,A-2B closing vs certificate,0.00,0.021,pass
+2025-09,A-3 balance roll,0.00,0.021,pass
+2025-09,A-3 interest accrual,0.000000,0.021,pass
+2025-09,A-3 closing vs certificate,0.00,0.021,pass
+2025-09,A-4 balance roll,0.00,0.021,pass
+2025-09,A-4 interest accrual,-0.005000,0.021,pass
+2025-09,A-4 closing vs certificate,0.00,0.021,pass
+2025-09,30+ buckets payoff_amount,0.00,0.04,pass
+2025-09,30+ buckets accounts,0,0,pass
+2025-09,60+ ratio from buckets,0.00000979361566093910574501183,0.000051,pass
+2025-09,interest_paid sum,0.00,0.021,pass
+2025-09,principal_paid sum,0.00,0.021,pass
+2025-09,note value decline,0.00,0.021,pass
+2025-09,overcollateralization,-0.19,0.51,pass
+2025-09,receipts,0.00,0.021,pass
+2025-09,waterfall uses,0.00,0.05,pass
+2025-09,net loss components,0.00,0.021,pass
+2025-09,pool continuity,0.00,0.021,pass
+2025-09,cumulative loss roll,0.00,0.021,pass
+2025-09,prepayment cumulative roll,0.00,0.021,pass
+2025-09,A-2B coupon reset,0.000000,1E-7,pass
+2025-09,reserve continuity,0.00,0.021,pass
+2025-09,contract servicing fee,-0.0038333333333333333333,0.021,pass
+2025-09,A-1 continuity,0.00,0.021,pass
+2025-09,A-2A continuity,0.00,0.021,pass
+2025-09,A-2B continuity,0.00,0.021,pass
+2025-09,A-3 continuity,0.00,0.021,pass
+2025-09,A-4 continuity,0.00,0.021,pass
+2025-09,A-2A principal priority,0.00,0.021,pass
+2025-09,A-2B principal priority,0.00,0.021,pass
+2025-09,A2 pro rata per original dollar,1.881631482584430768E-11,1E-9,pass
+2025-10,A-1 balance roll,0.00,0.021,pass
+2025-10,A-1 interest accrual,0E-7,0.021,pass
+2025-10,A-1 closing vs certificate,0.00,0.021,pass
+2025-10,A-2A balance roll,0.00,0.021,pass
+2025-10,A-2A interest accrual,-0.0019415,0.021,pass
+2025-10,A-2A closing vs certificate,0.00,0.021,pass
+2025-10,A-2B balance roll,0.00,0.021,pass
+2025-10,A-2B interest accrual,0.001610824,0.021,pass
+2025-10,A-2B closing vs certificate,0.00,0.021,pass
+2025-10,A-3 balance roll,0.00,0.021,pass
+2025-10,A-3 interest accrual,0.000000,0.021,pass
+2025-10,A-3 closing vs certificate,0.00,0.021,pass
+2025-10,A-4 balance roll,0.00,0.021,pass
+2025-10,A-4 interest accrual,-0.005000,0.021,pass
+2025-10,A-4 closing vs certificate,0.00,0.021,pass
+2025-10,30+ buckets payoff_amount,0.00,0.04,pass
+2025-10,30+ buckets accounts,0,0,pass
+2025-10,60+ ratio from buckets,0.00002199336419216494717710988,0.000051,pass
+2025-10,interest_paid sum,0.00,0.021,pass
+2025-10,principal_paid sum,0.00,0.021,pass
+2025-10,note value decline,0.00,0.021,pass
+2025-10,overcollateralization,-0.19,0.51,pass
+2025-10,receipts,0.00,0.021,pass
+2025-10,waterfall uses,0.00,0.05,pass
+2025-10,net loss components,0.00,0.021,pass
+2025-10,pool continuity,0.00,0.021,pass
+2025-10,cumulative loss roll,0.00,0.021,pass
+2025-10,prepayment cumulative roll,-0.01,0.021,pass
+2025-10,A-2B coupon reset,0E-7,1E-7,pass
+2025-10,reserve continuity,0.00,0.021,pass
+2025-10,contract servicing fee,0.0010083333333333333333,0.021,pass
+2025-10,A-1 continuity,0.00,0.021,pass
+2025-10,A-2A continuity,0.00,0.021,pass
+2025-10,A-2B continuity,0.00,0.021,pass
+2025-10,A-3 continuity,0.00,0.021,pass
+2025-10,A-4 continuity,0.00,0.021,pass
+2025-10,A-2A principal priority,0.00,0.021,pass
+2025-10,A-2B principal priority,0.00,0.021,pass
+2025-10,A2 pro rata per original dollar,-9.48536386296958066E-12,1E-9,pass
+2025-11,A-1 balance roll,0.00,0.021,pass
+2025-11,A-1 interest accrual,0E-7,0.021,pass
+2025-11,A-1 closing vs certificate,0.00,0.021,pass
+2025-11,A-2A balance roll,0.01,0.021,pass
+2025-11,A-2A interest accrual,0.0002368333333333333333,0.021,pass
+2025-11,A-2A closing vs certificate,0.00,0.021,pass
+2025-11,A-2B balance roll,0.00,0.021,pass
+2025-11,A-2B interest accrual,-0.0021349651916666666667,0.021,pass
+2025-11,A-2B closing vs certificate,0.00,0.021,pass
+2025-11,A-3 balance roll,0.00,0.021,pass
+2025-11,A-3 interest accrual,0.000000,0.021,pass
+2025-11,A-3 closing vs certificate,0.00,0.021,pass
+2025-11,A-4 balance roll,0.00,0.021,pass
+2025-11,A-4 interest accrual,-0.005000,0.021,pass
+2025-11,A-4 closing vs certificate,0.00,0.021,pass
+2025-11,30+ buckets payoff_amount,0.00,0.04,pass
+2025-11,30+ buckets accounts,0,0,pass
+2025-11,60+ ratio from buckets,-0.00001689348404499028040511543,0.000051,pass
+2025-11,interest_paid sum,0.00,0.021,pass
+2025-11,principal_paid sum,0.00,0.021,pass
+2025-11,note value decline,0.00,0.021,pass
+2025-11,overcollateralization,-0.18,0.51,pass
+2025-11,receipts,0.00,0.021,pass
+2025-11,waterfall uses,0.00,0.05,pass
+2025-11,net loss components,0.00,0.021,pass
+2025-11,pool continuity,0.00,0.021,pass
+2025-11,cumulative loss roll,0.00,0.021,pass
+2025-11,prepayment cumulative roll,0.01,0.021,pass
+2025-11,A-2B coupon reset,0E-7,1E-7,pass
+2025-11,reserve continuity,0.00,0.021,pass
+2025-11,contract servicing fee,-0.0041416666666666666667,0.021,pass
+2025-11,A-1 continuity,0.00,0.021,pass
+2025-11,A-2A continuity,0.00,0.021,pass
+2025-11,A-2B continuity,0.00,0.021,pass
+2025-11,A-3 continuity,0.00,0.021,pass
+2025-11,A-4 continuity,0.00,0.021,pass
+2025-11,A-2A principal priority,0.00,0.021,pass
+2025-11,A-2B principal priority,0.00,0.021,pass
+2025-11,A2 pro rata per original dollar,-8.88977124831800234E-12,1E-9,pass
+2025-12,A-1 balance roll,0.00,0.021,pass
+2025-12,A-1 interest accrual,0E-7,0.021,pass
+2025-12,A-1 closing vs certificate,0.00,0.021,pass
+2025-12,A-2A balance roll,-0.01,0.021,pass
+2025-12,A-2A interest accrual,-0.0025505,0.021,pass
+2025-12,A-2A closing vs certificate,0.00,0.021,pass
+2025-12,A-2B balance roll,0.01,0.021,pass
+2025-12,A-2B interest accrual,-0.0039751633333333333333,0.021,pass
+2025-12,A-2B closing vs certificate,0.00,0.021,pass
+2025-12,A-3 balance roll,0.00,0.021,pass
+2025-12,A-3 interest accrual,0.000000,0.021,pass
+2025-12,A-3 closing vs certificate,0.00,0.021,pass
+2025-12,A-4 balance roll,0.00,0.021,pass
+2025-12,A-4 interest accrual,-0.005000,0.021,pass
+2025-12,A-4 closing vs certificate,0.00,0.021,pass
+2025-12,30+ buckets payoff_amount,0.00,0.04,pass
+2025-12,30+ buckets accounts,0,0,pass
+2025-12,60+ ratio from buckets,-0.00004806102049259806742467000,0.000051,pass
+2025-12,interest_paid sum,0.00,0.021,pass
+2025-12,principal_paid sum,0.00,0.021,pass
+2025-12,note value decline,0.00,0.021,pass
+2025-12,overcollateralization,-0.18,0.51,pass
+2025-12,receipts,0.00,0.021,pass
+2025-12,waterfall uses,0.00,0.05,pass
+2025-12,net loss components,0.00,0.021,pass
+2025-12,pool continuity,0.00,0.021,pass
+2025-12,cumulative loss roll,0.00,0.021,pass
+2025-12,prepayment cumulative roll,0.00,0.021,pass
+2025-12,A-2B coupon reset,0E-7,1E-7,pass
+2025-12,reserve continuity,0.00,0.021,pass
+2025-12,contract servicing fee,-0.0011083333333333333333,0.021,pass
+2025-12,A-1 continuity,0.00,0.021,pass
+2025-12,A-2A continuity,0.00,0.021,pass
+2025-12,A-2B continuity,0.00,0.021,pass
+2025-12,A-3 continuity,0.00,0.021,pass
+2025-12,A-4 continuity,0.00,0.021,pass
+2025-12,A-2A principal priority,0.00,0.021,pass
+2025-12,A-2B principal priority,0.00,0.021,pass
+2025-12,A2 pro rata per original dollar,3.476496150706990493E-11,1E-9,pass
+2026-01,A-1 balance roll,0.00,0.021,pass
+2026-01,A-1 interest accrual,0E-7,0.021,pass
+2026-01,A-1 closing vs certificate,0.00,0.021,pass
+2026-01,A-2A balance roll,0.00,0.021,pass
+2026-01,A-2A interest accrual,-0.0006426666666666666667,0.021,pass
+2026-01,A-2A closing vs certificate,0.00,0.021,pass
+2026-01,A-2B balance roll,0.00,0.021,pass
+2026-01,A-2B interest accrual,0.0016900010694444444444,0.021,pass
+2026-01,A-2B closing vs certificate,0.00,0.021,pass
+2026-01,A-3 balance roll,0.00,0.021,pass
+2026-01,A-3 interest accrual,0.000000,0.021,pass
+2026-01,A-3 closing vs certificate,0.00,0.021,pass
+2026-01,A-4 balance roll,0.00,0.021,pass
+2026-01,A-4 interest accrual,-0.005000,0.021,pass
+2026-01,A-4 closing vs certificate,0.00,0.021,pass
+2026-01,30+ buckets payoff_amount,0.00,0.04,pass
+2026-01,30+ buckets accounts,0,0,pass
+2026-01,60+ ratio from buckets,-0.00003291713576321185684432452,0.000051,pass
+2026-01,interest_paid sum,0.00,0.021,pass
+2026-01,principal_paid sum,0.00,0.021,pass
+2026-01,note value decline,0.00,0.021,pass
+2026-01,overcollateralization,-0.18,0.51,pass
+2026-01,receipts,0.00,0.021,pass
+2026-01,waterfall uses,0.00,0.05,pass
+2026-01,net loss components,0.00,0.021,pass
+2026-01,pool continuity,0.00,0.021,pass
+2026-01,cumulative loss roll,0.01,0.021,pass
+2026-01,prepayment cumulative roll,0.00,0.021,pass
+2026-01,A-2B coupon reset,0E-7,1E-7,pass
+2026-01,reserve continuity,0.00,0.021,pass
+2026-01,contract servicing fee,0.000375,0.021,pass
+2026-01,A-1 continuity,0.00,0.021,pass
+2026-01,A-2A continuity,0.00,0.021,pass
+2026-01,A-2B continuity,0.00,0.021,pass
+2026-01,A-3 continuity,0.00,0.021,pass
+2026-01,A-4 continuity,0.00,0.021,pass
+2026-01,A-2A principal priority,0.00,0.021,pass
+2026-01,A-2B principal priority,0.00,0.021,pass
+2026-01,A2 pro rata per original dollar,3.381642512077294686E-11,1E-9,pass
+2026-02,A-1 balance roll,0.00,0.021,pass
+2026-02,A-1 interest accrual,0E-7,0.021,pass
+2026-02,A-1 closing vs certificate,0.00,0.021,pass
+2026-02,A-2A balance roll,0.00,0.021,pass
+2026-02,A-2A interest accrual,-0.0034621666666666666667,0.021,pass
+2026-02,A-2A closing vs certificate,0.00,0.021,pass
+2026-02,A-2B balance roll,0.00,0.021,pass
+2026-02,A-2B interest accrual,0.0041955743333333333333,0.021,pass
+2026-02,A-2B closing vs certificate,0.00,0.021,pass
+2026-02,A-3 balance roll,0.00,0.021,pass
+2026-02,A-3 interest accrual,0.000000,0.021,pass
+2026-02,A-3 closing vs certificate,0.00,0.021,pass
+2026-02,A-4 balance roll,0.00,0.021,pass
+2026-02,A-4 interest accrual,-0.005000,0.021,pass
+2026-02,A-4 closing vs certificate,0.00,0.021,pass
+2026-02,30+ buckets payoff_amount,0.00,0.04,pass
+2026-02,30+ buckets accounts,0,0,pass
+2026-02,60+ ratio from buckets,0.00001365056530935895690161320,0.000051,pass
+2026-02,interest_paid sum,0.00,0.021,pass
+2026-02,principal_paid sum,0.00,0.021,pass
+2026-02,note value decline,0.00,0.021,pass
+2026-02,overcollateralization,-0.18,0.51,pass
+2026-02,receipts,0.00,0.021,pass
+2026-02,waterfall uses,0.00,0.05,pass
+2026-02,net loss components,0.00,0.021,pass
+2026-02,pool continuity,0.00,0.021,pass
+2026-02,cumulative loss roll,0.00,0.021,pass
+2026-02,prepayment cumulative roll,0.00,0.021,pass
+2026-02,A-2B coupon reset,0E-7,1E-7,pass
+2026-02,reserve continuity,0.00,0.021,pass
+2026-02,contract servicing fee,0.0028416666666666666667,0.021,pass
+2026-02,A-1 continuity,0.00,0.021,pass
+2026-02,A-2A continuity,0.00,0.021,pass
+2026-02,A-2B continuity,0.00,0.021,pass
+2026-02,A-3 continuity,0.00,0.021,pass
+2026-02,A-4 continuity,0.00,0.021,pass
+2026-02,A-2A principal priority,0.00,0.021,pass
+2026-02,A-2B principal priority,0.00,0.021,pass
+2026-02,A2 pro rata per original dollar,-3.04414003044140030E-12,1E-9,pass
+2026-03,A-1 balance roll,0.00,0.021,pass
+2026-03,A-1 interest accrual,0E-7,0.021,pass
+2026-03,A-1 closing vs certificate,0.00,0.021,pass
+2026-03,A-2A balance roll,0.00,0.021,pass
+2026-03,A-2A interest accrual,0.00006483333333333333333,0.021,pass
+2026-03,A-2A closing vs certificate,0.00,0.021,pass
+2026-03,A-2B balance roll,0.00,0.021,pass
+2026-03,A-2B interest accrual,0.0013333587,0.021,pass
+2026-03,A-2B closing vs certificate,0.00,0.021,pass
+2026-03,A-3 balance roll,0.00,0.021,pass
+2026-03,A-3 interest accrual,0.000000,0.021,pass
+2026-03,A-3 closing vs certificate,0.00,0.021,pass
+2026-03,A-4 balance roll,0.00,0.021,pass
+2026-03,A-4 interest accrual,-0.005000,0.021,pass
+2026-03,A-4 closing vs certificate,0.00,0.021,pass
+2026-03,30+ buckets payoff_amount,0.00,0.04,pass
+2026-03,30+ buckets accounts,0,0,pass
+2026-03,60+ ratio from buckets,0.00000554475153074013925329301,0.000051,pass
+2026-03,interest_paid sum,0.00,0.021,pass
+2026-03,principal_paid sum,0.00,0.021,pass
+2026-03,note value decline,0.00,0.021,pass
+2026-03,overcollateralization,-0.18,0.51,pass
+2026-03,receipts,0.00,0.021,pass
+2026-03,waterfall uses,0.00,0.05,pass
+2026-03,net loss components,0.00,0.021,pass
+2026-03,pool continuity,0.00,0.021,pass
+2026-03,cumulative loss roll,0.00,0.021,pass
+2026-03,prepayment cumulative roll,0.01,0.021,pass
+2026-03,A-2B coupon reset,0E-7,1E-7,pass
+2026-03,reserve continuity,0.00,0.021,pass
+2026-03,contract servicing fee,0.0021,0.021,pass
+2026-03,A-1 continuity,0.00,0.021,pass
+2026-03,A-2A continuity,0.00,0.021,pass
+2026-03,A-2B continuity,0.00,0.021,pass
+2026-03,A-3 continuity,0.00,0.021,pass
+2026-03,A-4 continuity,0.00,0.021,pass
+2026-03,A-2A principal priority,0.00,0.021,pass
+2026-03,A-2B principal priority,0.00,0.021,pass
+2026-03,A-3 principal priority,0.00,0.021,pass
+2026-03,A2 pro rata per original dollar,-1.188979330730373018E-11,1E-9,pass
+2026-04,A-1 balance roll,0.00,0.021,pass
+2026-04,A-1 interest accrual,0E-7,0.021,pass
+2026-04,A-1 closing vs certificate,0.00,0.021,pass
+2026-04,A-2A balance roll,0.00,0.021,pass
+2026-04,A-2A interest accrual,0.000000,0.021,pass
+2026-04,A-2A closing vs certificate,0.00,0.021,pass
+2026-04,A-2B balance roll,0.00,0.021,pass
+2026-04,A-2B interest accrual,0E-9,0.021,pass
+2026-04,A-2B closing vs certificate,0.00,0.021,pass
+2026-04,A-3 balance roll,0.00,0.021,pass
+2026-04,A-3 interest accrual,0.001723333333333333333,0.021,pass
+2026-04,A-3 closing vs certificate,0.00,0.021,pass
+2026-04,A-4 balance roll,0.00,0.021,pass
+2026-04,A-4 interest accrual,-0.005000,0.021,pass
+2026-04,A-4 closing vs certificate,0.00,0.021,pass
+2026-04,30+ buckets payoff_amount,0.00,0.04,pass
+2026-04,30+ buckets accounts,0,0,pass
+2026-04,60+ ratio from buckets,-0.00002821215598151115743769545,0.000051,pass
+2026-04,interest_paid sum,0.00,0.021,pass
+2026-04,principal_paid sum,0.00,0.021,pass
+2026-04,note value decline,0.00,0.021,pass
+2026-04,overcollateralization,-0.18,0.51,pass
+2026-04,receipts,0.00,0.021,pass
+2026-04,waterfall uses,0.00,0.05,pass
+2026-04,net loss components,0.00,0.021,pass
+2026-04,pool continuity,0.00,0.021,pass
+2026-04,cumulative loss roll,0.00,0.021,pass
+2026-04,prepayment cumulative roll,-0.01,0.021,pass
+2026-04,A-2B coupon reset,0E-7,1E-7,pass
+2026-04,reserve continuity,0.00,0.021,pass
+2026-04,contract servicing fee,-0.003625,0.021,pass
+2026-04,A-1 continuity,0.00,0.021,pass
+2026-04,A-2A continuity,0.00,0.021,pass
+2026-04,A-2B continuity,0.00,0.021,pass
+2026-04,A-3 continuity,0.00,0.021,pass
+2026-04,A-4 continuity,0.00,0.021,pass
+2026-04,A-3 principal priority,0.00,0.021,pass
+2026-04,A2 pro rata per original dollar,0.00,1E-9,pass
+2026-05,A-1 balance roll,0.00,0.021,pass
+2026-05,A-1 interest accrual,0E-7,0.021,pass
+2026-05,A-1 closing vs certificate,0.00,0.021,pass
+2026-05,A-2A balance roll,0.00,0.021,pass
+2026-05,A-2A interest accrual,0.000000,0.021,pass
+2026-05,A-2A closing vs certificate,0.00,0.021,pass
+2026-05,A-2B balance roll,0.00,0.021,pass
+2026-05,A-2B interest accrual,0E-8,0.021,pass
+2026-05,A-2B closing vs certificate,0.00,0.021,pass
+2026-05,A-3 balance roll,0.00,0.021,pass
+2026-05,A-3 interest accrual,-0.002696666666666666667,0.021,pass
+2026-05,A-3 closing vs certificate,0.00,0.021,pass
+2026-05,A-4 balance roll,0.00,0.021,pass
+2026-05,A-4 interest accrual,-0.005000,0.021,pass
+2026-05,A-4 closing vs certificate,0.00,0.021,pass
+2026-05,30+ buckets payoff_amount,0.00,0.04,pass
+2026-05,30+ buckets accounts,0,0,pass
+2026-05,60+ ratio from buckets,-0.00000408992492465071278158523,0.000051,pass
+2026-05,interest_paid sum,0.00,0.021,pass
+2026-05,principal_paid sum,0.00,0.021,pass
+2026-05,note value decline,0.00,0.021,pass
+2026-05,overcollateralization,-0.18,0.51,pass
+2026-05,receipts,0.00,0.021,pass
+2026-05,waterfall uses,0.00,0.05,pass
+2026-05,net loss components,0.00,0.021,pass
+2026-05,pool continuity,0.00,0.021,pass
+2026-05,cumulative loss roll,0.00,0.021,pass
+2026-05,prepayment cumulative roll,0.00,0.021,pass
+2026-05,A-2B coupon reset,0.000000,1E-7,pass
+2026-05,reserve continuity,0.00,0.021,pass
+2026-05,contract servicing fee,-0.00055,0.021,pass
+2026-05,A-1 continuity,0.00,0.021,pass
+2026-05,A-2A continuity,0.00,0.021,pass
+2026-05,A-2B continuity,0.00,0.021,pass
+2026-05,A-3 continuity,0.00,0.021,pass
+2026-05,A-4 continuity,0.00,0.021,pass
+2026-05,A-3 principal priority,0.00,0.021,pass
+2026-05,A2 pro rata per original dollar,0.00,1E-9,pass
+2026-06,A-1 balance roll,0.00,0.021,pass
+2026-06,A-1 interest accrual,0E-7,0.021,pass
+2026-06,A-1 closing vs certificate,0.00,0.021,pass
+2026-06,A-2A balance roll,0.00,0.021,pass
+2026-06,A-2A interest accrual,0.000000,0.021,pass
+2026-06,A-2A closing vs certificate,0.00,0.021,pass
+2026-06,A-2B balance roll,0.00,0.021,pass
+2026-06,A-2B interest accrual,0E-9,0.021,pass
+2026-06,A-2B closing vs certificate,0.00,0.021,pass
+2026-06,A-3 balance roll,0.00,0.021,pass
+2026-06,A-3 interest accrual,0.000976666666666666667,0.021,pass
+2026-06,A-3 closing vs certificate,0.00,0.021,pass
+2026-06,A-4 balance roll,0.00,0.021,pass
+2026-06,A-4 interest accrual,-0.005000,0.021,pass
+2026-06,A-4 closing vs certificate,0.00,0.021,pass
+2026-06,30+ buckets payoff_amount,0.00,0.04,pass
+2026-06,30+ buckets accounts,0,0,pass
+2026-06,60+ ratio from buckets,0.00003070674917435759841436994,0.000051,pass
+2026-06,interest_paid sum,0.00,0.021,pass
+2026-06,principal_paid sum,0.00,0.021,pass
+2026-06,note value decline,0.00,0.021,pass
+2026-06,overcollateralization,-0.18,0.51,pass
+2026-06,receipts,0.00,0.021,pass
+2026-06,waterfall uses,0.00,0.05,pass
+2026-06,net loss components,0.00,0.021,pass
+2026-06,pool continuity,0.00,0.021,pass
+2026-06,cumulative loss roll,0.00,0.021,pass
+2026-06,prepayment cumulative roll,0.00,0.021,pass
+2026-06,A-2B coupon reset,0E-7,1E-7,pass
+2026-06,reserve continuity,0.00,0.021,pass
+2026-06,contract servicing fee,0.0039416666666666666667,0.021,pass
+2026-06,A-1 continuity,0.00,0.021,pass
+2026-06,A-2A continuity,0.00,0.021,pass
+2026-06,A-2B continuity,0.00,0.021,pass
+2026-06,A-3 continuity,0.00,0.021,pass
+2026-06,A-4 continuity,0.00,0.021,pass
+2026-06,A-3 principal priority,0.00,0.021,pass
+2026-06,A2 pro rata per original dollar,0.00,1E-9,pass
+2026-07,A-1 balance roll,0.00,0.021,pass
+2026-07,A-1 interest accrual,0E-7,0.021,pass
+2026-07,A-1 closing vs certificate,0.00,0.021,pass
+2026-07,A-2A balance roll,0.00,0.021,pass
+2026-07,A-2A interest accrual,0.000000,0.021,pass
+2026-07,A-2A closing vs certificate,0.00,0.021,pass
+2026-07,A-2B balance roll,0.00,0.021,pass
+2026-07,A-2B interest accrual,0E-9,0.021,pass
+2026-07,A-2B closing vs certificate,0.00,0.021,pass
+2026-07,A-3 balance roll,0.00,0.021,pass
+2026-07,A-3 interest accrual,-0.004590,0.021,pass
+2026-07,A-3 closing vs certificate,0.00,0.021,pass
+2026-07,A-4 balance roll,0.00,0.021,pass
+2026-07,A-4 interest accrual,-0.005000,0.021,pass
+2026-07,A-4 closing vs certificate,0.00,0.021,pass
+2026-07,30+ buckets payoff_amount,0.00,0.04,pass
+2026-07,30+ buckets accounts,0,0,pass
+2026-07,60+ ratio from buckets,0.00000639503849309546723857217,0.000051,pass
+2026-07,interest_paid sum,0.00,0.021,pass
+2026-07,principal_paid sum,0.00,0.021,pass
+2026-07,note value decline,0.00,0.021,pass
+2026-07,overcollateralization,-0.18,0.51,pass
+2026-07,receipts,0.00,0.021,pass
+2026-07,waterfall uses,0.00,0.05,pass
+2026-07,net loss components,0.00,0.021,pass
+2026-07,pool continuity,0.00,0.021,pass
+2026-07,cumulative loss roll,0.00,0.021,pass
+2026-07,prepayment cumulative roll,-0.01,0.021,pass
+2026-07,A-2B coupon reset,0E-7,1E-7,pass
+2026-07,reserve continuity,0.00,0.021,pass
+2026-07,contract servicing fee,0.0013916666666666666667,0.021,pass
+2026-07,A-1 continuity,0.00,0.021,pass
+2026-07,A-2A continuity,0.00,0.021,pass
+2026-07,A-2B continuity,0.00,0.021,pass
+2026-07,A-3 continuity,0.00,0.021,pass
+2026-07,A-4 continuity,0.00,0.021,pass
+2026-07,A-3 principal priority,0.00,0.021,pass
+2026-07,A2 pro rata per original dollar,0.00,1E-9,pass
+2026-08,A-1 balance roll,0.00,0.021,pass
+2026-08,A-1 interest accrual,0E-7,0.021,pass
+2026-08,A-1 closing vs certificate,0.00,0.021,pass
+2026-08,A-2A balance roll,0.00,0.021,pass
+2026-08,A-2A interest accrual,0.000000,0.021,pass
+2026-08,A-2A closing vs certificate,0.00,0.021,pass
+2026-08,A-2B balance roll,0.00,0.021,pass
+2026-08,A-2B interest accrual,0E-9,0.021,pass
+2026-08,A-2B closing vs certificate,0.00,0.021,pass
+2026-08,A-3 balance roll,0.00,0.021,pass
+2026-08,A-3 interest accrual,-0.003390,0.021,pass
+2026-08,A-3 closing vs certificate,0.00,0.021,pass
+2026-08,A-4 balance roll,0.00,0.021,pass
+2026-08,A-4 interest accrual,-0.005000,0.021,pass
+2026-08,A-4 closing vs certificate,0.00,0.021,pass
+2026-08,30+ buckets payoff_amount,0.00,0.04,pass
+2026-08,30+ buckets accounts,0,0,pass
+2026-08,60+ ratio from buckets,-0.00004632900603552043366899532,0.000051,pass
+2026-08,interest_paid sum,0.00,0.021,pass
+2026-08,principal_paid sum,0.00,0.021,pass
+2026-08,note value decline,0.00,0.021,pass
+2026-08,overcollateralization,-0.18,0.51,pass
+2026-08,receipts,0.00,0.021,pass
+2026-08,waterfall uses,0.00,0.05,pass
+2026-08,net loss components,0.00,0.021,pass
+2026-08,pool continuity,0.00,0.021,pass
+2026-08,cumulative loss roll,0.00,0.021,pass
+2026-08,prepayment cumulative roll,0.00,0.021,pass
+2026-08,A-2B coupon reset,0E-7,1E-7,pass
+2026-08,reserve continuity,0.00,0.021,pass
+2026-08,contract servicing fee,-0.000925,0.021,pass
+2026-08,A-1 continuity,0.00,0.021,pass
+2026-08,A-2A continuity,0.00,0.021,pass
+2026-08,A-2B continuity,0.00,0.021,pass
+2026-08,A-3 continuity,0.00,0.021,pass
+2026-08,A-4 continuity,0.00,0.021,pass
+2026-08,A-3 principal priority,0.00,0.021,pass
+2026-08,A2 pro rata per original dollar,0.00,1E-9,pass
+2026-09,A-1 balance roll,0.00,0.021,pass
+2026-09,A-1 interest accrual,0E-7,0.021,pass
+2026-09,A-1 closing vs certificate,0.00,0.021,pass
+2026-09,A-2A balance roll,0.00,0.021,pass
+2026-09,A-2A interest accrual,0.000000,0.021,pass
+2026-09,A-2A closing vs certificate,0.00,0.021,pass
+2026-09,A-2B balance roll,0.00,0.021,pass
+2026-09,A-2B interest accrual,0E-8,0.021,pass
+2026-09,A-2B closing vs certificate,0.00,0.021,pass
+2026-09,A-3 balance roll,0.00,0.021,pass
+2026-09,A-3 interest accrual,0.004553333333333333333,0.021,pass
+2026-09,A-3 closing vs certificate,0.00,0.021,pass
+2026-09,A-4 balance roll,0.00,0.021,pass
+2026-09,A-4 interest accrual,-0.005000,0.021,pass
+2026-09,A-4 closing vs certificate,0.00,0.021,pass
+2026-09,30+ buckets payoff_amount,0.00,0.04,pass
+2026-09,30+ buckets accounts,0,0,pass
+2026-09,60+ ratio from buckets,-0.00001901220507647286068734189,0.000051,pass
+2026-09,interest_paid sum,0.00,0.021,pass
+2026-09,principal_paid sum,0.00,0.021,pass
+2026-09,note value decline,0.00,0.021,pass
+2026-09,overcollateralization,-0.18,0.51,pass
+2026-09,receipts,0.00,0.021,pass
+2026-09,waterfall uses,0.00,0.05,pass
+2026-09,net loss components,0.00,0.021,pass
+2026-09,pool continuity,0.00,0.021,pass
+2026-09,cumulative loss roll,0.00,0.021,pass
+2026-09,prepayment cumulative roll,0.01,0.021,pass
+2026-09,A-2B coupon reset,0.000000,1E-7,pass
+2026-09,reserve continuity,0.00,0.021,pass
+2026-09,contract servicing fee,0.0040916666666666666667,0.021,pass
+2026-09,A-1 continuity,0.00,0.021,pass
+2026-09,A-2A continuity,0.00,0.021,pass
+2026-09,A-2B continuity,0.00,0.021,pass
+2026-09,A-3 continuity,0.00,0.021,pass
+2026-09,A-4 continuity,0.00,0.021,pass
+2026-09,A-3 principal priority,0.00,0.021,pass
+2026-09,A2 pro rata per original dollar,0.00,1E-9,pass
+2026-10,A-1 balance roll,0.00,0.021,pass
+2026-10,A-1 interest accrual,0E-7,0.021,pass
+2026-10,A-1 closing vs certificate,0.00,0.021,pass
+2026-10,A-2A balance roll,0.00,0.021,pass
+2026-10,A-2A interest accrual,0.000000,0.021,pass
+2026-10,A-2A closing vs certificate,0.00,0.021,pass
+2026-10,A-2B balance roll,0.00,0.021,pass
+2026-10,A-2B interest accrual,0E-8,0.021,pass
+2026-10,A-2B closing vs certificate,0.00,0.021,pass
+2026-10,A-3 balance roll,0.00,0.021,pass
+2026-10,A-3 interest accrual,0.001806666666666666667,0.021,pass
+2026-10,A-3 closing vs certificate,0.00,0.021,pass
+2026-10,A-4 balance roll,0.00,0.021,pass
+2026-10,A-4 interest accrual,-0.005000,0.021,pass
+2026-10,A-4 closing vs certificate,0.00,0.021,pass
+2026-10,30+ buckets payoff_amount,0.00,0.04,pass
+2026-10,30+ buckets accounts,0,0,pass
+2026-10,60+ ratio from buckets,0.00000941550702122516889191318,0.000051,pass
+2026-10,interest_paid sum,0.00,0.021,pass
+2026-10,principal_paid sum,0.00,0.021,pass
+2026-10,note value decline,0.00,0.021,pass
+2026-10,overcollateralization,-0.18,0.51,pass
+2026-10,receipts,0.00,0.021,pass
+2026-10,waterfall uses,0.00,0.05,pass
+2026-10,net loss components,0.00,0.021,pass
+2026-10,pool continuity,0.00,0.021,pass
+2026-10,cumulative loss roll,0.00,0.021,pass
+2026-10,prepayment cumulative roll,0.00,0.021,pass
+2026-10,A-2B coupon reset,0.000000,1E-7,pass
+2026-10,reserve continuity,0.00,0.021,pass
+2026-10,contract servicing fee,-0.0020416666666666666667,0.021,pass
+2026-10,A-1 continuity,0.00,0.021,pass
+2026-10,A-2A continuity,0.00,0.021,pass
+2026-10,A-2B continuity,0.00,0.021,pass
+2026-10,A-3 continuity,0.00,0.021,pass
+2026-10,A-4 continuity,0.00,0.021,pass
+2026-10,A-3 principal priority,0.00,0.021,pass
+2026-10,A2 pro rata per original dollar,0.00,1E-9,pass
+2026-11,A-1 balance roll,0.00,0.021,pass
+2026-11,A-1 interest accrual,0E-7,0.021,pass
+2026-11,A-1 closing vs certificate,0.00,0.021,pass
+2026-11,A-2A balance roll,0.00,0.021,pass
+2026-11,A-2A interest accrual,0.000000,0.021,pass
+2026-11,A-2A closing vs certificate,0.00,0.021,pass
+2026-11,A-2B balance roll,0.00,0.021,pass
+2026-11,A-2B interest accrual,0E-9,0.021,pass
+2026-11,A-2B closing vs certificate,0.00,0.021,pass
+2026-11,A-3 balance roll,0.00,0.021,pass
+2026-11,A-3 interest accrual,0.001643333333333333333,0.021,pass
+2026-11,A-3 closing vs certificate,0.00,0.021,pass
+2026-11,A-4 balance roll,0.00,0.021,pass
+2026-11,A-4 interest accrual,-0.005000,0.021,pass
+2026-11,A-4 closing vs certificate,0.00,0.021,pass
+2026-11,30+ buckets payoff_amount,0.00,0.04,pass
+2026-11,30+ buckets accounts,0,0,pass
+2026-11,60+ ratio from buckets,-0.00001249881676601603603279191,0.000051,pass
+2026-11,interest_paid sum,0.00,0.021,pass
+2026-11,principal_paid sum,0.00,0.021,pass
+2026-11,note value decline,0.00,0.021,pass
+2026-11,overcollateralization,-0.18,0.51,pass
+2026-11,receipts,0.00,0.021,pass
+2026-11,waterfall uses,0.00,0.05,pass
+2026-11,net loss components,0.00,0.021,pass
+2026-11,pool continuity,0.00,0.021,pass
+2026-11,cumulative loss roll,0.00,0.021,pass
+2026-11,prepayment cumulative roll,0.00,0.021,pass
+2026-11,A-2B coupon reset,0E-7,1E-7,pass
+2026-11,reserve continuity,0.00,0.021,pass
+2026-11,contract servicing fee,0.0000416666666666666667,0.021,pass
+2026-11,A-1 continuity,0.00,0.021,pass
+2026-11,A-2A continuity,0.00,0.021,pass
+2026-11,A-2B continuity,0.00,0.021,pass
+2026-11,A-3 continuity,0.00,0.021,pass
+2026-11,A-4 continuity,0.00,0.021,pass
+2026-11,A-3 principal priority,0.00,0.021,pass
+2026-11,A2 pro rata per original dollar,0.00,1E-9,pass

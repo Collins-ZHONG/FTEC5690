@@ -1,0 +1,6 @@
+tranche,original_balance_usd,rate_type,fixed_coupon_decimal,spread_decimal,day_count,principal_rank,issue_price_per_100,legal_final_payment,issuer_wal_at_16pct_cpr_years
+A-1,388000000,fixed,0.05510,,ACT/360,1,100.00000,2025-06-16,0.31
+A-2A,270000000,fixed,0.0542,,30/360,2,99.99420,2027-05-17,1.15
+A-2B,251850000,floating,,0.0037,ACT/360,2,100.00000,2027-05-17,1.15
+A-3,521850000,fixed,0.0520,,30/360,3,99.98045,2029-03-15,2.58
+A-4,91711000,fixed,0.0519,,30/360,4,99.98874,2031-05-15,3.58

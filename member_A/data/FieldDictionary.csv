@@ -1,0 +1,68 @@
+﻿table,field,unit,source,section,label
+PoolPerformance,payment_date,date,99.3,,Actual Payment Date
+PoolPerformance,collection_start,date,99.3,,Collection Period Begin
+PoolPerformance,collection_end,date,99.3,,Collection Period End
+PoolPerformance,days_30_360,days,99.3,,Days in accrual period (30/360)
+PoolPerformance,days_act_360,days,99.3,,Days in accrual period (ACT/360)
+PoolPerformance,sofr,decimal/year,99.3,,One-Month SOFR
+PoolPerformance,a2b_rate,decimal/year,99.1,,Class A-2B interest rate
+PoolPerformance,pool_balance,USD,99.3,12,Pool Balance (excluding
+PoolPerformance,note_value,USD,99.3,12,Note Value as of
+PoolPerformance,overcollateralization,USD,99.3,12,Amount of Overcollateralization
+PoolPerformance,account_count,count,99.3,17,Number of loans at the end
+PoolPerformance,account_count_start,count,99.3,17,Number of loans at the beginning
+PoolPerformance,remaining_term,months,99.3,17,Weighted average remaining term
+PoolPerformance,weighted_apr,decimal/year,99.3,17,Weighted average APR
+PoolPerformance,prepayment,USD,99.3,17,Prepayment amount - monthly
+PoolPerformance,prepayment_cumulative,USD,99.3,17,Prepayment amount - life
+PoolPerformance,net_loss,USD,99.3,15,Aggregate amount of net losses
+PoolPerformance,net_loss_cumulative,USD,99.3,15,Cumulative amount of net losses
+PoolPerformance,net_loss_cumulative_ratio,decimal,99.3,15,Cumulative net loss as a percent
+PoolPerformance,delinquency_60plus,decimal,99.3,16,Payoff Amount of Receivables
+PoolPerformance,delinquency_trigger,decimal,99.3,18,Delinquency Trigger
+PoolPerformance,trigger_occurred,Y/N,99.3,18,Delinquency Trigger Occurred
+PoolPerformance,total_distribution,USD,99.3,1,Total Distribution Amount
+PoolPerformance,cash_receipts,USD,99.3,1,Total cash receipts
+PoolPerformance,repurchases,USD,99.3,1,Administrative repurchases
+PoolPerformance,investment_income,USD,99.3,1,Investment earnings
+PoolPerformance,buyback,USD,99.3,1,Payment from Deere
+PoolPerformance,administration_fee,USD,99.3,2,Administration Fee
+PoolPerformance,review_fee_priority2,USD,99.3,10,Section 5.04 (iii)
+PoolPerformance,note_interest,USD,99.3,3,Noteholders' Interest Distributable Amount deposited
+PoolPerformance,note_principal,USD,99.3,4,Noteholders' Principal Distribution Amount deposited
+PoolPerformance,principal_shortfall,USD,99.3,4,Sum of five class principal carryover shortfalls
+PoolPerformance,interest_shortfall,USD,99.3,3,Noteholders' Interest Carryover Shortfall
+PoolPerformance,reserve_start,USD,99.3,6,Beginning balance
+PoolPerformance,reserve_deposit,USD,99.3,6,Amount to increase
+PoolPerformance,reserve_to_notes,USD,99.3,6,Amount to be withdrawn from the Reserve Account and deposited into Note
+PoolPerformance,reserve_to_certificate,USD,99.3,6,Amount to be withdrawn from the Reserve Account and Deposited into Certificate
+PoolPerformance,reserve_end,USD,99.3,6,Ending Balance
+PoolPerformance,reserve_target,USD,99.3,6,Specified Reserve
+PoolPerformance,servicing_fee_paid,USD,99.3,7,Amount of Servicing Fee paid
+PoolPerformance,indenture_trustee_fee,USD,99.3,8,Amount paid to Indenture Trustee
+PoolPerformance,owner_trustee_fee,USD,99.3,9,Amount paid to Owner Trustee
+PoolPerformance,review_fee_priority9,USD,99.3,10,Section 5.04 (ix)
+PoolPerformance,certificate_payment,USD,99.3,11,Amount Paid to Certificateholder
+PoolPerformance,pool_balance_start,USD,99.1,4,at beginning
+PoolPerformance,note_value_start,USD,99.1,4,at beginning
+PoolPerformance,gross_losses,USD,99.1,13,Realized losses
+PoolPerformance,accrued_loss_change,USD,99.1,13,Change in accrued loss
+PoolPerformance,recoveries_signed,USD,99.1,13,Proceeds to the Trust
+NoteCashflows,opening_balance,USD,99.1,1,Outstanding Principal Amount of Class {tranche} Notes
+NoteCashflows,principal_paid,USD,99.1,2,Class {tranche} Notes
+NoteCashflows,interest_paid,USD,99.1,3,Class {tranche} Notes
+NoteCashflows,closing_balance,USD,99.1,5,Outstanding Principal Amount of Class {tranche} Notes
+CertificateCheck,balance_A-1,USD,99.3,13,Outstanding Principal Balance of Class A-1 Notes
+CertificateCheck,balance_A-2A,USD,99.3,13,Outstanding Principal Balance of Class A-2A Notes
+CertificateCheck,balance_A-2B,USD,99.3,13,Outstanding Principal Balance of Class A-2B Notes
+CertificateCheck,balance_A-3,USD,99.3,13,Outstanding Principal Balance of Class A-3 Notes
+CertificateCheck,balance_A-4,USD,99.3,13,Outstanding Principal Balance of Class A-4 Notes
+Delinquency,payoff_amount,USD,99.1,11,Total Payoff Amount {days_past_due} days past due as of the end
+Delinquency,accounts,count,99.1,11,Number of Receivables {days_past_due} days past due as of the end
+Delinquency,pool_share,decimal,99.1,11,Payoff Amount {days_past_due} days past due as a percent
+PoolPerformance,period,key,prospectus / monthly exhibits,,Payment calendar month YYYY-MM
+NoteCashflows,period,key,prospectus / monthly exhibits,,Payment calendar month YYYY-MM
+NoteCashflows,tranche,key,prospectus / monthly exhibits,,Legal note class
+NoteCashflows,coupon_rate,decimal/year,prospectus / monthly exhibits,,"Annual rate as a decimal, fixed rates from prospectus or A-2B reset"
+Delinquency,period,key,prospectus / monthly exhibits,,Payment calendar month YYYY-MM
+Delinquency,days_past_due,key,prospectus / monthly exhibits,,Bucket; 30 or more is the inclusive total

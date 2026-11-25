@@ -1,0 +1,126 @@
+https://www.sec.gov/Archives/edgar/data/2023726/000155837024013003/jdot-20240916xex99d3.htm
+John Deere Owner Trust 2024-B  | EXHIBIT 99.3
+Servicer's Certificate  | 
+$388,000,000 Class A-1 5.51000% Asset Backed Notes due June 16, 2025  | 
+$270,000,000 Class A-2A 5.42% Asset Backed Notes due May 17, 2027  | 
+$251,850,000 Class A-2B Floating Rate Asset Backed Notes due May 17, 2027  | 
+$521,850,000 Class A-3 5.20% Asset Backed Notes due March 15, 2029  | 
+$91,711,000 Class A-4 5.19% Asset Backed Notes due May 15, 2031  | 
+$39,062,743 Overcollateralization  | 
+Scheduled Payment Date (30/360)  | 15-Sep-24
+Actual Payment Date (A/360)  | 16-Sep-24
+Collection Period Begin Date  | 29-Jul-24
+Collection Period End Date  | 25-Aug-24
+Days in accrual period (30/360)  | 30
+Days in accrual period (ACT/360)  | 32
+One-Month SOFR as of the SOFR Determination Date:  | 5.35353%
+Class A-2B interest rate:  | 5.72353%
+(1)  | Total Distribution Amount:  | $56,009,873.24
+  | (a)  | Total cash receipts during the month:  | $54,852,943.15
+  | (b)  | Administrative repurchases during the month:  | $1,087,497.64
+  | (c)  | Investment earnings on cash accounts:  | $69,432.45
+  | (d)  | Payment from Deere to buy-back the deal:  | $0.00
+(2)  | (a)  | Administration Fee:  | $100.00
+  | (b)  | Administration Fee Shortfall:  | $0.00
+(3)  | Noteholders' Interest Distributable Amount deposited into Note Distribution Account:  | $6,475,110.93
+  | Noteholders' Interest Carryover Shortfall:  | $0.00
+  | (a)  | (i)  | Noteholders' Interest Distributable Amount applicable to Class A-1 Notes:  | $1,316,303.27
+  |   | (ii)  | Noteholders' Interest Carryover Shortfall applicable to Class A-1 Notes:  | $0.00
+  | (b)  | (i)  | Noteholders' Interest Distributable Amount applicable to Class A-2A Notes:  | $1,219,500.00
+  |   | (ii)  | Noteholders' Interest Carryover Shortfall applicable to Class A-2A Notes:  | $0.00
+  | (c)  | (i)  | Noteholders' Interest Distributable Amount applicable to Class A-2B Notes:  | $1,281,307.58
+  |   | (ii)  | Noteholders' Interest Carryover Shortfall applicable to Class A-2B Notes:  | $0.00
+  | (d)  | (i)  | Noteholders' Interest Distributable Amount applicable to Class A-3 Notes:  | $2,261,350.00
+  |   | (ii)  | Noteholders' Interest Carryover Shortfall applicable to Class A-3 Notes:  | $0.00
+  | (e)  | (i)  | Noteholders' Interest Distributable Amount applicable to Class A-4 Notes:  | $396,650.08
+  |   | (ii)  | Noteholders' Interest Carryover Shortfall applicable to Class A-4 Notes:  | $0.00
+(4)  | Noteholders' Principal Distribution Amount deposited into Note Distribution Account:  | $44,190,191.64
+  | Noteholders' Principal Carryover Shortfall:  | $0.00
+  | (a)  | (i)  | Class A-1 Noteholders' Monthly Principal Distributable Amount:  | $44,190,191.64
+  |   | (ii)  | % of Principal Distribution Amount applicable to Class A-1 Noteholders:  | 100.00%
+  |   | (iii)  | Class A-1 Noteholders' Principal Carryover Shortfall:  | $0.00
+  |   | (iv)  | Class A-1 Noteholders' Principal Distributable Amount:  | $44,190,191.64
+  | (b)  | (i)  | Class A-2A Noteholders' Monthly Principal Distributable Amount:  | $0.00
+  |   | (ii)  | % of Principal Distribution Amount applicable to Class A-2A Noteholders:  | 0.00%
+  |   | (iii)  | Class A-2A Noteholders' Principal Carryover Shortfall:  | $0.00
+  |   | (iv)  | Class A-2A Noteholders' Principal Distributable Amount:  | $0.00
+  | (c)  | (i)  | Class A-2B Noteholders' Monthly Principal Distributable Amount:  | $0.00
+  |   | (ii)  | % of Principal Distribution Amount applicable to Class A-2B Noteholders:  | 0.00%
+  |   | (iii)  | Class A-2B Noteholders' Principal Carryover Shortfall:  | $0.00
+  |   | (iv)  | Class A-2B Noteholders' Principal Distributable Amount:  | $0.00
+  | (d)  | (i)  | Class A-3 Noteholders' Monthly Principal Distributable Amount:  | $0.00
+  |   | (ii)  | % of Principal Distribution Amount applicable to Class A-3 Noteholders:  | 0.00%
+  |   | (iii)  | Class A-3 Noteholders' Principal Carryover Shortfall:  | $0.00
+  |   | (iv)  | Class A-3 Noteholders' Principal Distributable Amount:  | $0.00
+  | (e)  | (i)  | Class A-4 Noteholders' Monthly Principal Distributable Amount:  | $0.00
+  |   | (ii)  | % of Principal Distribution Amount applicable to Class A-4 Noteholders:  | 0.00%
+  |   | (iii)  | Class A-4 Noteholders' Principal Carryover Shortfall:  | $0.00
+  |   | (iv)  | Class A-4 Noteholders' Principal Distributable Amount:  | $0.00
+(5)  | Noteholders' Distributable Amount:  | $50,665,302.57
+(6)  | Reserve Account balance:  | 
+  | (a)  | Beginning balance:  | $15,624,737.43
+  | (b)  | Amount to increase the amount on deposit in the Reserve Account to the Specified Reserve Account Balance:  | $0.00
+  | (c)  | Amount to be withdrawn from the Reserve Account and deposited into Note Distribution Account (5.05(e)):  | $0.00
+  |   | (i)  | Interest Amount included above:  | $0.00
+  |   | (ii)  | Principal Amount included above:  | $0.00
+  | (d)  | Amount to be withdrawn from the Reserve Account and Deposited into Certificateholder Account (5.05(c)):  | $0.00
+  | (e)  | Ending Balance (after giving effect to all distributions):  | $15,624,737.43
+  | (f)  | Specified Reserve Account Balance:  | $15,624,737.43
+(7)  | Servicing Fee:  | $1,273,455.81
+  | (a)  | Amount of Servicing Fee earned:  | $1,273,455.81
+  | (b)  | Amount of Servicing Fee paid:  | $1,273,455.81
+  | (c)  | Amount of Servicing Fee Shortfall:  | $0.00
+(8)  | Amount paid to Indenture Trustee:  | $0.00
+(9)  | Amount paid to Owner Trustee:  | $0.00
+(10)  | Amount paid to Asset Representations Reviewer  | 
+  | (a)  | Section 5.04 (iii) - Asset Representations Review Fees  | $0.00
+  | (b)  | Section 5.04 (ix) - Asset Representations Review Fees  | $0.00
+(11)  | Amount Paid to Certificateholder:  | $4,071,014.86
+(12)  | (a)  | Pool Balance (excluding Accrued Interest) as of close of business on the last day of the related Collection Period:  | $1,477,769,886.77
+  | (b)  | Note Value as of the end of the related Collection Period:  | $1,399,038,755.11
+  | (c)  | Amount of Overcollateralization (Note value less aggregate principal amount of Notes):  | $39,062,743.00
+  | (d)  | Number of Accounts at the end of the related Collection Period:  | 18,273
+(13)  | After giving effect to all distributions on such Payment Date:  | 
+  | (a)  | (i)  | Outstanding Principal Balance of Class A-1 Notes:  | $224,565,012.29
+  |   | (ii)  | Class A-1 Note Pool Factor:  | 0.5787758
+  | (b)  | (i)  | Outstanding Principal Balance of Class A-2A Notes:  | $270,000,000.00
+  |   | (ii)  | Class A-2A Note Pool Factor:  | 1.0000000
+  | (c)  | (i)  | Outstanding Principal Balance of Class A-2B Notes:  | $251,850,000.00
+  |   | (ii)  | Class A-2B Note Pool Factor:  | 1.0000000
+  | (d)  | (i)  | Outstanding Principal Balance of Class A-3 Notes:  | $521,850,000.00
+  |   | (ii)  | Class A-3 Note Pool Factor:  | 1.0000000
+  | (e)  | (i)  | Outstanding Principal Balance of Class A-4 Notes:  | $91,711,000.00
+  |   | (ii)  | Class A-4 Note Pool Factor:  | 1.0000000
+(14)  | (a)  | Number of Receivables that were the subject of a repurchase demand in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (b)  | Number of Purchased Receivables in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Purchased Receivables:  | $493,993.81
+  |   | (ii)  | % of Pool Balance:  | 0.03%
+  | (c)  | Number of Receivables pending repurchase (within cure period) in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (d)  | Number of repurchase demands in dispute in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (e)  | Number of repurchase demands withdrawn in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of related Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (f)  | Number of repurchase demands rejected in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of related Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+(15)  | (i)  | Aggregate amount of net losses for the collection period:  | $177,836.48
+  | (ii)  | Cumulative amount of net losses:  | $245,186.87
+  | (iii)  | Cumulative net loss as a percent of Initial Pool Balance (Cumulative Net Loss Ratio):  | 0.01%
+(16)  | (i)  | Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:  | 0.74%
+(17)  | Collateral Composition:  | 
+  | (a)  | Number of loans at the beginning of the period:  | 18,577
+  | (b)  | Number of loans at the end of the period:  | 18,273
+  | (c)  | Weighted average remaining term on receivables:  | 42.55
+  | (d)  | Prepayment amount - monthly:  | $14,040,571.21
+  | (e)  | Prepayment amount - life-to-date:  | $61,330,563.94
+  | (f)  | Weighted average APR of the pool assets:  | 4.74%
+  | (g)  | Pool Factor:  | 0.88
+(18)  | (a)  | Delinquency Trigger:  | 14.60%
+  | (b)  | Payoff Amount of Receivables 60 or more days past due as a percent of ending Pool Balance:  | 0.74%
+  | (c)  | Delinquency Trigger Occurred: Y/N  | N

@@ -1,0 +1,146 @@
+https://www.sec.gov/Archives/edgar/data/2023726/000155837025001289/jdot-20250218xex99d1.htm
+John Deere Owner Trust 2024-B  | EXHIBIT 99.1
+Statement to Noteholders  | 
+$388,000,000 Class A-1 5.51000% Asset Backed Notes due June 16, 2025  | 
+$270,000,000 Class A-2A 5.42% Asset Backed Notes due May 17, 2027  | 
+$251,850,000 Class A-2B Floating Rate Asset Backed Notes due May 17, 2027  | 
+$521,850,000 Class A-3 5.20% Asset Backed Notes due March 15, 2029  | 
+$91,711,000 Class A-4 5.19% Asset Backed Notes due May 15, 2031  | 
+$39,062,743 Overcollateralization  | 
+Payment Date:  | 18-Feb-25
+One-Month SOFR as of the SOFR Determination Date:  | 4.40654%
+Class A-2B interest rate:  | 4.77654%
+(1)  | Before giving effect to distributions on this Payment Date:  | 
+  | (a)  | (i)  | Outstanding Principal Amount of Class A-1 Notes:  | $40,828,603.06
+  |   | (ii)  | A-1 Note Pool Factor:  | 0.1052284
+  | (b)  | (i)  | Outstanding Principal Amount of Class A-2A Notes:  | $270,000,000.00
+  |   | (ii)  | A-2A Note Pool Factor:  | 1.0000000
+  | (c)  | (i)  | Outstanding Principal Amount of Class A-2B Notes:  | $251,850,000.00
+  |   | (ii)  | A-2B Note Pool Factor:  | 1.0000000
+  | (d)  | (i)  | Outstanding Principal Amount of Class A-3 Notes:  | $521,850,000.00
+  |   | (ii)  | A-3 Note Pool Factor:  | 1.0000000
+  | (e)  | (i)  | Outstanding Principal Amount of Class A-4 Notes:  | $91,711,000.00
+  |   | (ii)  | A-4 Note Pool Factor:  | 1.0000000
+(2)  | Amount of principal being paid on the Notes:  | 
+  | (a)  | Class A-1 Notes:  | $40,828,603.06
+  |   | per $1,000 original principal amount:  | $105.23
+  | (b)  | Class A-2A Notes:  | $12,096,448.15
+  |   | per $1,000 original principal amount:  | $44.80
+  | (c)  | Class A-2B Notes:  | $11,283,298.03
+  |   | per $1,000 original principal amount:  | $44.80
+  | (d)  | Class A-3 Notes:  | $0.00
+  |   | per $1,000 original principal amount:  | $0.00
+  | (e)  | Class A-4 Notes:  | $0.00
+  |   | per $1,000 original principal amount:  | $0.00
+  | (f)  | Total:  | $64,208,349.24
+(3)  | (a)  | Amount of interest being paid on Notes:  | 
+  |   | (i)  | Class A-1 Notes:  | $212,467.51
+  |   |   | per $1,000 original principal amount:  | $0.55
+  |   | (ii)  | Class A-2A Notes:  | $1,219,500.00
+  |   |   | per $1,000 original principal amount:  | $4.52
+  |   | (iii)  | Class A-2B Notes:  | $1,136,139.84
+  |   |   | per $1,000 original principal amount:  | $4.51
+  |   | (iv)  | Class A-3 Notes:  | $2,261,350.00
+  |   |   | per $1,000 original principal amount:  | $4.33
+  |   | (v)  | Class A-4 Notes:  | $396,650.08
+  |   |   | per $1,000 original principal amount:  | $4.33
+  |   | (vi)  | Total:  | $5,226,107.43
+(4)  | (a)  | Pool Balance (excluding accrued interest):  | 
+  |   | (i)  | at beginning of related Collection Period:  | $1,275,115,384.80
+  |   | (ii)  | at end of related Collection Period:  | $1,208,665,727.73
+  | (b)  | Note Value:  | 
+  |   | (i)  | at beginning of related Collection Period:  | $1,215,302,345.88
+  |   | (ii)  | at end of related Collection Period:  | $1,151,093,996.64
+  | (c)  | Amount of Overcollateralization (i.e. Note Value less aggregate principal amount of Notes)  | 
+  |   | (i)  | per $1,000 original principal amount:  | $39,062,743.00
+  |   | (ii)  | at end of related Collection Period:  | $39,062,743.00
+(5)  | After giving effect to distributions on this Payment Date:  | 
+  | (a)  | (i)  | Outstanding Principal Amount of Class A-1 Notes:  | $0.00
+  |   | (ii)  | A-1 Note Pool Factor:  | 0.0000000
+  | (b)  | (i)  | Outstanding Principal Amount of Class A-2A Notes:  | $257,903,551.85
+  |   | (ii)  | A-2A Note Pool Factor:  | 0.9551983
+  | (c)  | (i)  | Outstanding Principal Amount of Class A-2B Notes:  | $240,566,701.97
+  |   | (ii)  | A-2B Note Pool Factor:  | 0.9551983
+  | (d)  | (i)  | Outstanding Principal Amount of Class A-3 Notes:  | $521,850,000.00
+  |   | (ii)  | A-3 Note Pool Factor:  | 1.0000000
+  | (e)  | (i)  | Outstanding Principal Amount of Class A-4 Notes:  | $91,711,000.00
+  |   | (ii)  | A-4 Note Pool Factor:  | 1.0000000
+(6)  | (a)  | Amount of Servicing Fee:  | $1,062,596.15
+  |   | per $1,000 original principal amount of Notes and Certificate:  | $0.64
+  | (b)  | Amount of Servicing Fee earned:  | $1,062,596.15
+  | (c)  | Amount of Servicing Fee paid:  | $1,062,596.15
+  | (d)  | Amount of Servicing Fee Shortfall:  | $0.00
+(7)  | Amount of Administration Fee:  | $100.00
+(8)  | Amount of Asset Representations Review Fees (max $200,000/calendar year):  | $0.00
+(9)  | Amount paid to Certificateholder:  | $3,512,795.93
+(10)  | (i)  | Amount in Reserve Account:  | $15,624,737.43
+  | (ii)  | Specified Reserve Account Balance:  | $15,624,737.43
+(11)  | (a)  | Payoff Amount 30-59 days past due as of the end of the period:  | $13,756,749.28
+  |   | (i)  | Number of Receivables 30-59 days past due as of the end of the period:  | 178
+  |   | (ii)  | Payoff Amount 30-59 days past due as a percent of ending Pool Balance:  | 1.14%
+  | (b)  | Payoff Amount 60-89 days past due as of the end of the period:  | $6,331,886.85
+  |   | (i)  | Number of Receivables 60-89 days past due as of the end of the period:  | 60
+  |   | (ii)  | Payoff Amount 60-89 days past due as a percent of ending Pool Balance:  | 0.52%
+  | (c)  | Payoff Amount 90-119 days past due as of the end of the period:  | $5,389,688.64
+  |   | (i)  | Number of Receivables 90-119 days past due as of the end of the period:  | 57
+  |   | (ii)  | Payoff Amount 90-119 days past due as a percent of ending Pool Balance:  | 0.45%
+  | (d)  | Payoff Amount 120-149 days past due as of the end of the period:  | $3,963,030.96
+  |   | (i)  | Number of Receivables 120-149 days past due as of the end of the period:  | 35
+  |   | (ii)  | Payoff Amount 120-149 days past due as a percent of ending Pool Balance:  | 0.33%
+  | (e)  | Payoff Amount 150-179 days past due as of the end of the period:  | $3,777,864.40
+  |   | (i)  | Number of Receivables 150-179 days past due as of the end of the period:  | 30
+  |   | (ii)  | Payoff Amount 150-179 days past due as a percent of ending Pool Balance:  | 0.31%
+  | (f)  | Payoff Amount 180 or more days past due as of the end of the period:  | $3,773,080.29
+  |   | (i)  | Number of Receivables 180 or more days past due as of the end of the period:  | 29
+  |   | (ii)  | Payoff Amount 180 or more days past due as a percent of ending Pool Balance:  | 0.31%
+  | (g)  | Total Payoff Amount 30 or more days past due as of the end of the period:  | $36,992,300.42
+  |   | (i)  | Number of Receivables 30 or more days past due as of the end of the period:  | 389
+  |   | (ii)  | Payoff Amount 30 or more days past due as a percent of ending Pool Balance:  | 3.06%
+(12)  | (i)  | Payoff Amount of Receivables 60 days or more past due:  | $23,235,551.14
+  | (ii)  | Payoff Amount of Receivables 60 days or more past due as a % of the Pool Balance:  | 1.92%
+(13)  | (a)  | Current Period Loss Information:  | 
+  |   | (i)  | Realized losses to the Trust as of liquidation date (Gross Losses):  | $213,666.67
+  |   | (ii)  | Change in accrued loss on Receivables 180 or more days past due and unliquidated repossessed inventory¹:  | $441,515.56
+  |   | (iii)  | Proceeds to the Trust after liquidation of Receivables (Recoveries):  | $0.00
+  |   | (iv)  | Aggregate amount of Net Losses (i+ii+iii)¹:  | $655,182.23
+  |   | (v)  | Change in amount (Pay-off Amount) of Receivables 180 or more days past due¹:  | $1,188,216.40
+  |   | (vi)  | Change in amount (Principal Balance) of Receivables with repossessed liquidated and unliquidated equipment:  | $801,527.51
+  |   | (vii)  | Change in number of Receivables with Recoveries:  | 0
+  |   | (viii)  | Change in number of Receivables with Net Losses¹:  | 13
+  |   | (ix)  | Aggregate Net Loss as a percent of Initial Pool Balance¹:  | 0.04%
+  |   | (x)  | Aggregate Net Loss as a percent of average Pool Balance¹:  | 0.05%
+  |   | (xi)  | Change in Cumulative Average Net Loss amount for the period¹:  | $391.02
+  | (b)  | Cumulative Loss Information:  | 
+  |   | (i)  | Realized losses to the Trust as of liquidation date (Gross Losses):  | $1,248,374.02
+  |   | (ii)  | Accrued loss on Receivables 180 or more days past due and unliquidated repossessed inventory:  | $1,784,962.84
+  |   | (iii)  | Proceeds to the Trust after liquidation of Receivables (Recoveries):  | $0.00
+  |   | (iv)  | Aggregate amount of Net Losses (i+ii+iii):  | $3,033,336.86
+  |   | (v)  | Amount (Pay-off Amount) of Receivables 180 or more days past due:  | $3,773,080.29
+  |   | (vi)  | Amount (Principal Balance) of Receivables with repossessed liquidated and unliquidated equipment:  | $4,345,601.53
+  |   | (vii)  | Number of Receivables with Recoveries:  | 0
+  |   | (viii)  | Number of Receivables with Net Losses:  | 62
+  |   | (ix)  | Aggregate Net Loss as a percent of Initial Pool Balance:  | 0.18%
+  |   | (x)  | Aggregate Net Loss as a percent of average Pool Balance:  | 0.21%
+  |   | (xi)  | Average Net Loss amount (iv/viii):  | $48,924.79
+(14)  | (a)  | Delinquency Trigger:  | 14.60%
+  | (b)  | Payoff Amount of Receivables 60 or more days past due as a percent of ending Pool Balance:  | 1.92%
+  | (c)  | Delinquency Trigger Occurred: Y/N  | N
+(15)  | (a)  | Number of Receivables that were the subject of a repurchase demand in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (b)  | Number of Purchased Receivables in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Purchased Receivables:  | $633,150.09
+  |   | (ii)  | % of Pool Balance:  | 0.05%
+  | (c)  | Number of Receivables pending repurchase (within cure period) in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (d)  | Number of repurchase demands in dispute in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (e)  | Number of repurchase demands withdrawn in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of related Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | (f)  | Number of repurchase demands rejected in the related Collection Period:  | 
+  |   | (i)  | Aggregate Principal Balance of related Receivables:  | $0.00
+  |   | (ii)  | % of Pool Balance:  | 0.00%
+  | ¹ Activity for the current period could result in a negative value as a result of receivables 180 or more days past due becoming current, unliquidated repossessed equipment being liquidated and activity for those receivables being moved to the realized loss line item (13(a)(i)), and/or loss estimates for receivables 180 days or more past due and/or repossessed equipment that has not been liquidated changing as compared to estimates for prior periods.  | 
