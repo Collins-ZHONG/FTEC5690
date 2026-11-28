@@ -1,0 +1,19 @@
+﻿metric,value,unit,note
+periods,29.0,count,consecutive payment months
+pool_balance_first,1670001216.47,USD,2024-07 reporting basis
+pool_balance_last,437914336.49,USD,2026-11
+note_value_first,1562473742.82,USD,disclosed initial Note Value
+note_value_last,429405349.3,USD,2026-11
+cumulative_net_loss,13241619.23,USD,as disclosed
+cumulative_net_loss_ratio,0.007929107535615902,decimal,over initial pool balance excluding accrued interest
+cumulative_prepayment,212250003.46,USD,as disclosed
+cumulative_prepayment_ratio,0.1270957178753725,decimal,over initial pool balance
+negative_prepayment_months,7.0,count,sign convention still open with role A (plan Q1)
+smm_mean_all_months,0.00528577202915817,decimal/month,net of negative months
+cpr_from_all_months,0.06161737159325131,decimal/year,"naive conversion, net speed"
+smm_mean_positive_months,0.00936774023614572,decimal/month,"gross speed, ignores reversals"
+cpr_from_positive_months,0.106798180268454,decimal/year,gross speed
+delinquency_60plus_last,0.0299,decimal,share of ending pool balance
+delinquency_trigger,0.146,decimal,never breached
+remaining_term_last,21.76,months,weighted average
+weighted_apr_last,0.0497,decimal/year,weighted average

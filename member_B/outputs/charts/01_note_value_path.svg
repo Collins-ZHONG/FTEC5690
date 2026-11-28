@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="78" y="26" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#1a1a1a">Note Value: disclosed history and Base projection</text>
+<line x1="78" y1="358.0" x2="690" y2="358.0" stroke="#e6e6e6"/>
+<text x="68" y="362.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#555">48m</text>
+<line x1="78" y1="295.6" x2="690" y2="295.6" stroke="#e6e6e6"/>
+<text x="68" y="299.6" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#555">359m</text>
+<line x1="78" y1="233.2" x2="690" y2="233.2" stroke="#e6e6e6"/>
+<text x="68" y="237.2" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#555">670m</text>
+<line x1="78" y1="170.8" x2="690" y2="170.8" stroke="#e6e6e6"/>
+<text x="68" y="174.8" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#555">981m</text>
+<line x1="78" y1="108.4" x2="690" y2="108.4" stroke="#e6e6e6"/>
+<text x="68" y="112.4" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#555">1,292m</text>
+<line x1="78" y1="46.0" x2="690" y2="46.0" stroke="#e6e6e6"/>
+<text x="68" y="50.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#555">1,603m</text>
+<text x="78.0" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2024-07</text>
+<text x="120.7" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2024-10</text>
+<text x="163.4" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2025-01</text>
+<text x="206.1" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2025-04</text>
+<text x="248.8" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2025-07</text>
+<text x="291.5" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2025-10</text>
+<text x="334.2" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2026-01</text>
+<text x="376.9" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2026-04</text>
+<text x="419.6" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2026-07</text>
+<text x="462.3" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2026-10</text>
+<text x="505.0" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2027-01</text>
+<text x="547.7" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2027-04</text>
+<text x="590.4" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2027-07</text>
+<text x="633.1" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2027-10</text>
+<text x="675.8" y="378" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#555">2028-01</text>
+<text x="384.0" y="406" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#333">period</text>
+<text x="18" y="202.0" transform="rotate(-90 18 202.0)" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#333">USD</text>
+<path d="M78.0,67.5 L92.2,78.0 L106.5,86.9 L120.7,95.7 L134.9,108.3 L149.2,115.9 L163.4,123.8 L177.6,136.6 L191.9,146.5 L206.1,156.6 L220.3,169.3 L234.6,174.7 L248.8,179.9 L263.0,186.4 L277.3,192.5 L291.5,200.9 L305.7,209.9 L320.0,214.6 L334.2,221.2 L348.4,229.8 L362.7,237.1 L376.9,244.8 L391.1,253.0 L405.3,256.9 L419.6,260.7 L433.8,266.5 L448.0,270.8 L462.3,275.1 L476.5,281.5" fill="none" stroke="#1f4e79" stroke-width="2.1"/>
+<path d="L490.7,286.8 L505.0,290.2 L519.2,295.2 L533.4,299.8 L547.7,304.3 L561.9,309.2 L576.1,313.5 L590.4,315.7 L604.6,318.3 L618.8,321.0 L633.1,324.2 L647.3,327.2 L661.5,330.9 L675.8,333.1 L690.0,336.5" fill="none" stroke="#c00000" stroke-width="2.1"/>
+<rect x="712" y="52" width="12" height="12" fill="#1f4e79"/>
+<text x="730" y="63" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#333">disclosed Note Value</text>
+<rect x="712" y="74" width="12" height="12" fill="#c00000"/>
+<text x="730" y="85" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#333">Base projection</text>
+</svg>

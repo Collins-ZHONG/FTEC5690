@@ -1,0 +1,7 @@
+﻿check,status,detail
+periods are consecutive months,pass,"29 periods, 2024-07..2026-11"
+collection periods tile without gaps,pass,"first 2024-04-29, last 2026-11-01"
+pool balance chains across periods,pass,pool_balance_start(t) == pool_balance(t-1)
+note value chains across periods,pass,note_value_start(t) == note_value(t-1)
+prepayment sign is mixed (needs the SA&S definition),review,"7 of 29 months negative, sum -30,995,477.85"
+every period reports all five tranches,pass,"min 5, max 5 tranches per period"

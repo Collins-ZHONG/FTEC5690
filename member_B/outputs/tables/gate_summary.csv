@@ -1,0 +1,7 @@
+﻿gate,pass,fail,missing,ok,description
+G1,117,0,0,True,identities that anchor the model to disclosed values
+G2,5,0,0,True,calibration reproduces the contract schedule it claims to model
+G3,32,0,0,True,history replay rebuilds the disclosed Note Value path
+G4,551,0,0,True,waterfall replays the disclosed class-by-class cash flows
+G5,15,0,0,True,WAL and IRR reproduce the realised figures from disclosed flows
+G6,34,0,0,True,

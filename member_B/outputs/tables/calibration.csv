@@ -1,0 +1,28 @@
+﻿item,value,unit,note
+pool_yield_solved,0.05754137065116538,decimal/year,annual yield at which the 73-month contract schedule exhausts the cut-off principal
+pool_yield_accrued_basis,0.050235822570698474,decimal/year,same solve on pool balance including accrued interest; compare with weighted APR
+weighted_apr_cutoff,0.04745,decimal/year,disclosed prospectus printed p54
+note_value_discount,0.0885,decimal/year,indenture Note Value discount rate
+balance0_ex_accrued,1670001216.47,USD,"opening principal, 99.1 section 4"
+balance0_incl_accrued,1694001151.31,USD,prospectus printed p54
+note_value0,1562473742.8171446,USD,PV of schedule at 8.85%/12
+note_value0_disclosed,1562473742.82,USD,prospectus printed p92
+scheduled_principal_total,1670001216.4706483,USD,G2
+scheduled_interest_total,203874459.39935178,USD,G2
+pool_yield_flat_accrual,0.05523813394290755,decimal/year,regression reference: the pre-seasonality solve
+scheduled_principal_min,1.3474322730643602e-06,USD,must be non-negative for the split to be admissible
+replay_mean_abs_error_pct,0.24641592472216534,percent,G3
+replay_max_abs_error_pct,0.659379373521285,percent,G3
+replay_terminal_error_pct,0.003962334748819352,percent,G3
+seasonal_weight_month_01,1.2450126267522783,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_02,1.3060645994055737,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_03,1.4883919195474355,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_04,1.2772753048023613,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_05,0.4346698684065223,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_06,0.6223349559183725,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_07,0.7177551656508008,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_08,0.9061507594744179,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_09,0.8863446099186738,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_10,1.1587244273071502,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_11,0.7428662549921551,"weight, mean 1",month-of-year collection intensity recovered from the schedule
+seasonal_weight_month_12,1.214409507824257,"weight, mean 1",month-of-year collection intensity recovered from the schedule

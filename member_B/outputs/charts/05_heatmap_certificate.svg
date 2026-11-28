@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470">
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="96" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#1a1a1a">Certificate cash (USD millions) - no clean-up call</text>
+<text x="96" y="50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#666">rows: annual net-loss rate %　columns: CPR %</text>
+<text x="148.0" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">0</text>
+<text x="252.0" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">4</text>
+<text x="356.0" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">6</text>
+<text x="460.0" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">8</text>
+<text x="564.0" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">10</text>
+<text x="668.0" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">16</text>
+<text x="86" y="101.3" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">0.66</text>
+<rect x="96.0" y="74.0" width="104.0" height="46.6" fill="rgb(61,69,87)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="148.0" y="101.3" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">48.4</text>
+<rect x="200.0" y="74.0" width="104.0" height="46.6" fill="rgb(61,69,87)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="252.0" y="101.3" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">48.5</text>
+<rect x="304.0" y="74.0" width="104.0" height="46.6" fill="rgb(60,68,86)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="356.0" y="101.3" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">48.6</text>
+<rect x="408.0" y="74.0" width="104.0" height="46.6" fill="rgb(60,68,86)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="460.0" y="101.3" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">48.7</text>
+<rect x="512.0" y="74.0" width="104.0" height="46.6" fill="rgb(60,68,86)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="564.0" y="101.3" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">48.7</text>
+<rect x="616.0" y="74.0" width="104.0" height="46.6" fill="rgb(60,68,86)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="668.0" y="101.3" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">48.9</text>
+<text x="86" y="147.9" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">1.33</text>
+<rect x="96.0" y="120.6" width="104.0" height="46.6" fill="rgb(73,81,99)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="148.0" y="147.9" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">45.2</text>
+<rect x="200.0" y="120.6" width="104.0" height="46.6" fill="rgb(72,80,98)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="252.0" y="147.9" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">45.4</text>
+<rect x="304.0" y="120.6" width="104.0" height="46.6" fill="rgb(72,80,98)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="356.0" y="147.9" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">45.5</text>
+<rect x="408.0" y="120.6" width="104.0" height="46.6" fill="rgb(71,79,97)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="460.0" y="147.9" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">45.6</text>
+<rect x="512.0" y="120.6" width="104.0" height="46.6" fill="rgb(71,79,97)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="564.0" y="147.9" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">45.7</text>
+<rect x="616.0" y="120.6" width="104.0" height="46.6" fill="rgb(70,78,96)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="668.0" y="147.9" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">46.0</text>
+<text x="86" y="194.4" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">2.65</text>
+<rect x="96.0" y="167.1" width="104.0" height="46.6" fill="rgb(93,101,119)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="148.0" y="194.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">39.6</text>
+<rect x="200.0" y="167.1" width="104.0" height="46.6" fill="rgb(93,101,119)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="252.0" y="194.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">39.8</text>
+<rect x="304.0" y="167.1" width="104.0" height="46.6" fill="rgb(92,100,118)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="356.0" y="194.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">39.8</text>
+<rect x="408.0" y="167.1" width="104.0" height="46.6" fill="rgb(92,100,118)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="460.0" y="194.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">39.9</text>
+<rect x="512.0" y="167.1" width="104.0" height="46.6" fill="rgb(92,100,118)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="564.0" y="194.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">40.0</text>
+<rect x="616.0" y="167.1" width="104.0" height="46.6" fill="rgb(91,99,117)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="668.0" y="194.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">40.3</text>
+<text x="86" y="241.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">5.31</text>
+<rect x="96.0" y="213.7" width="104.0" height="46.6" fill="rgb(125,133,151)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="148.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">31.0</text>
+<rect x="200.0" y="213.7" width="104.0" height="46.6" fill="rgb(122,130,148)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="252.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">31.6</text>
+<rect x="304.0" y="213.7" width="104.0" height="46.6" fill="rgb(121,129,147)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="356.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">31.9</text>
+<rect x="408.0" y="213.7" width="104.0" height="46.6" fill="rgb(120,128,146)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="460.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">32.2</text>
+<rect x="512.0" y="213.7" width="104.0" height="46.6" fill="rgb(119,127,145)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="564.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">32.5</text>
+<rect x="616.0" y="213.7" width="104.0" height="46.6" fill="rgb(116,124,142)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="668.0" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">33.4</text>
+<text x="86" y="287.6" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">7.96</text>
+<rect x="96.0" y="260.3" width="104.0" height="46.6" fill="rgb(169,177,195)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="148.0" y="287.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">18.8</text>
+<rect x="200.0" y="260.3" width="104.0" height="46.6" fill="rgb(165,173,191)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="252.0" y="287.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">19.8</text>
+<rect x="304.0" y="260.3" width="104.0" height="46.6" fill="rgb(163,171,189)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="356.0" y="287.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">20.3</text>
+<rect x="408.0" y="260.3" width="104.0" height="46.6" fill="rgb(162,170,188)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="460.0" y="287.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">20.8</text>
+<rect x="512.0" y="260.3" width="104.0" height="46.6" fill="rgb(160,168,186)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="564.0" y="287.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">21.3</text>
+<rect x="616.0" y="260.3" width="104.0" height="46.6" fill="rgb(155,163,181)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="668.0" y="287.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">22.7</text>
+<text x="86" y="334.1" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">10.61</text>
+<rect x="96.0" y="306.9" width="104.0" height="46.6" fill="rgb(214,222,240)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="148.0" y="334.1" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">6.5</text>
+<rect x="200.0" y="306.9" width="104.0" height="46.6" fill="rgb(209,217,235)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="252.0" y="334.1" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">7.9</text>
+<rect x="304.0" y="306.9" width="104.0" height="46.6" fill="rgb(206,214,232)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="356.0" y="334.1" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">8.6</text>
+<rect x="408.0" y="306.9" width="104.0" height="46.6" fill="rgb(204,212,230)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="460.0" y="334.1" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">9.3</text>
+<rect x="512.0" y="306.9" width="104.0" height="46.6" fill="rgb(201,209,227)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="564.0" y="334.1" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">10.0</text>
+<rect x="616.0" y="306.9" width="104.0" height="46.6" fill="rgb(194,202,220)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="668.0" y="334.1" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">12.0</text>
+<text x="86" y="380.7" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#444">15.92</text>
+<rect x="96.0" y="353.4" width="104.0" height="46.6" fill="rgb(238,246,255)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="148.0" y="380.7" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">0.0</text>
+<rect x="200.0" y="353.4" width="104.0" height="46.6" fill="rgb(238,246,255)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="252.0" y="380.7" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">0.0</text>
+<rect x="304.0" y="353.4" width="104.0" height="46.6" fill="rgb(238,246,255)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="356.0" y="380.7" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">0.0</text>
+<rect x="408.0" y="353.4" width="104.0" height="46.6" fill="rgb(238,246,255)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="460.0" y="380.7" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">0.0</text>
+<rect x="512.0" y="353.4" width="104.0" height="46.6" fill="rgb(238,246,255)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="564.0" y="380.7" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">0.0</text>
+<rect x="616.0" y="353.4" width="104.0" height="46.6" fill="rgb(238,246,255)" stroke="#ffffff" stroke-width="1.5"/>
+<text x="668.0" y="380.7" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#111">0.0</text>
+<text x="96" y="444" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#666">rows: loss_pct　columns: cpr_pct　darker = lower</text>
+</svg>

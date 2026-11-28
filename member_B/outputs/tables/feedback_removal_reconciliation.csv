@@ -1,0 +1,8 @@
+﻿item,value,unit,note
+balance_implied_removal_28_periods,227838831.80527586,USD,fiscal months with a known successor
+prepayment_plus_net_loss,225491622.68000004,USD,A3: this is the comparison role A recommends
+gap_vs_prepayment_plus_net_loss,2347209.1252758205,USD,"A9: diagnostic only, not an identity"
+administrative_repurchase_cash,32050502.2,USD,99.3 item 1(b): includes interest to period end - must NOT be treated as principal
+reported_purchased_receivables_principal,20340301.57,USD,99.3 item 14(b)(i): the principal figure A3 points to
+gap_vs_prepayment_netloss_plus_repurchase_principal,-17993092.444724172,USD,A3 warned this cannot prove prepayment already contains repurchases
+correlation_implied_vs_prepayment,0.9935719960784514,correlation,A4: 0.40 cannot identify a cross-period cause
